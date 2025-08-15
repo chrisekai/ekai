@@ -1,0 +1,18 @@
+meta:
+  display_name: Healthcare
+
+sections:
+  - id: governance
+    mode: append
+    content: |
+      Clinical Safety and Quality Committees are integrated into the risk framework. Sentinel events are investigated with root cause analysis and corrective actions.
+
+  - id: patient_safety
+    title: Patient Safety and Clinical Risk
+    content: |
+      {{ company_name }} maintains a patient safety program, incident reporting, and continuous improvement cycle to mitigate clinical risks.
+
+  - id: data_protection
+    title: Health Data Protection
+    content: |
+      Protected health information is handled in accordance with privacy and security policies, including strict access controls, auditing, and breach notification procedures.

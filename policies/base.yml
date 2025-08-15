@@ -1,0 +1,53 @@
+meta:
+  display_name: Base Policy
+
+sections:
+  - id: purpose
+    title: Purpose
+    content: |
+      This Risk Management Policy establishes the framework for identifying, assessing, managing, and monitoring risks that could affect {{ company_name }}'s ability to achieve strategic and operational objectives.
+
+  - id: scope
+    title: Scope
+    content: |
+      This policy applies to all employees, contractors, and third parties acting on behalf of {{ company_name }} across all business units and geographies.
+
+  - id: definitions
+    title: Definitions
+    content: |
+      - Risk: The effect of uncertainty on objectives.
+      - Risk Appetite: The amount and type of risk that {{ company_name }} is willing to pursue or retain, currently set to {{ risk_appetite | capitalize }}.
+
+  - id: governance
+    title: Governance and Roles
+    content: |
+      The Board and Executive Team oversee the risk management framework. The {{ policy_owner }} is responsible for maintaining this policy and facilitating risk processes.
+
+  - id: methodology
+    title: Risk Management Methodology
+    content: |
+      {{ company_name }} adopts a standard methodology comprising:
+      1. Risk Identification
+      2. Risk Assessment (likelihood, impact)
+      3. Risk Treatment (avoid, reduce, transfer, accept)
+      4. Monitoring and Reporting
+
+  - id: register
+    title: Risk Register
+    content: |
+      All material risks are recorded in a centralized risk register including ownership, assessment, treatment plan, and review cadence. The register is reviewed at least quarterly.
+
+  - id: reporting
+    title: Reporting and Escalation
+    content: |
+      Key risks are reported to the Executive Team monthly and to the Board quarterly. Escalation thresholds are defined based on impact and likelihood.
+
+  - id: compliance
+    title: Compliance Alignment
+    content: |
+      This policy is designed to align with generally accepted risk management frameworks. The following overlays are considered: {{ ", ".join(regulations) if regulations else "None" }}.
+
+  - id: review
+    title: Review and Maintenance
+    content: |
+      This policy shall be reviewed at least annually or upon significant changes to the business, regulatory environment, or risk profile.

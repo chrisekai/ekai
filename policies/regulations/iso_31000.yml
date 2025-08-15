@@ -1,0 +1,14 @@
+meta:
+  display_name: ISO 31000
+
+sections:
+  - id: methodology
+    mode: append
+    content: |
+      The risk management process aligns with ISO 31000: context establishment, risk assessment, risk treatment, monitoring and review, and communication and consultation.
+
+  - id: principles
+    title: Principles
+    after: methodology
+    content: |
+      The framework is guided by principles of integration, structured and comprehensive approach, customization, inclusiveness, dynamism, best available information, human and cultural factors, and continual improvement.

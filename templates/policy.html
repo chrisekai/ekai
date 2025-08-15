@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Generated Policy</title>
+	<link rel="stylesheet" href="/static/styles.css" />
+	<style>
+		.policy pre { white-space: pre-wrap; word-wrap: break-word; }
+	</style>
+</head>
+<body>
+	<header class="container">
+		<h1>Policy for {{ company_name }}</h1>
+		<p>Review the generated policy below. You can copy or download it as Markdown.</p>
+	</header>
+	<main class="container">
+		<div class="actions">
+			<form method="post" action="/download">
+				<input type="hidden" name="filename" value="{{ company_name | replace(' ', '_') }}_risk_policy.md" />
+				<input type="hidden" name="content" value="{{ policy_md | replace('"', '\\"') | replace('\n', '&#10;') }}" />
+				<button type="submit">Download Markdown</button>
+				<a href="/" class="secondary">Start Over</a>
+			</form>
+		</div>
+		<section class="policy card">
+			<pre>{{ policy_md }}</pre>
+		</section>
+	</main>
+</body>
+</html>
