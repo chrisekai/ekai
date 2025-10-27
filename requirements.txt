@@ -1,0 +1,5 @@
+fastapi>=0.110,<0.120
+uvicorn[standard]>=0.23,<0.31
+PyYAML>=6.0,<7.0
+Jinja2>=3.1,<4.0
+python-multipart>=0.0.5,<0.0.10

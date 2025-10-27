@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Risk Policy Generator</title>
+	<link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+	<header class="container">
+		<h1>Risk Management Policy Generator</h1>
+		<p>Create tailored policies from curated templates by industry and regulation.</p>
+	</header>
+	<main class="container">
+		<form method="post" action="/generate" class="card">
+			<h2>Company Profile</h2>
+			<div class="grid">
+				<label>
+					<span>Company Name</span>
+					<input type="text" name="company_name" required />
+				</label>
+				<label>
+					<span>Industry</span>
+					<select name="industry">
+						<option value="">Generic</option>
+						{% for key, label in industries %}
+						<option value="{{ key }}">{{ label }}</option>
+						{% endfor %}
+					</select>
+				</label>
+				<label>
+					<span>Company Size</span>
+					<select name="company_size">
+						{% for key, label in company_sizes %}
+						<option value="{{ key }}">{{ label }}</option>
+						{% endfor %}
+					</select>
+				</label>
+				<label>
+					<span>Country</span>
+					<input type="text" name="country" placeholder="e.g., US, UK, SG" />
+				</label>
+				<label>
+					<span>Currency</span>
+					<input type="text" name="currency" value="USD" />
+				</label>
+				<label>
+					<span>Risk Appetite</span>
+					<select name="risk_appetite">
+						{% for key, label in risk_appetites %}
+						<option value="{{ key }}">{{ label }}</option>
+						{% endfor %}
+					</select>
+				</label>
+				<label>
+					<span>Policy Owner</span>
+					<input type="text" name="policy_owner" value="Risk Management" />
+				</label>
+				<label>
+					<span>Effective Date</span>
+					<input type="date" name="effective_date" />
+				</label>
+				<label>
+					<span>Version</span>
+					<input type="text" name="version" value="1.0" />
+				</label>
+			</div>
+
+			<h2>Regulatory Overlays</h2>
+			<div class="grid">
+				<label>
+					<span>Select Regulations</span>
+					<select name="regulations" multiple size="6">
+						{% for key, label in regulations %}
+						<option value="{{ key }}">{{ label }}</option>
+						{% endfor %}
+					</select>
+					<small>Hold Ctrl/Cmd to multi-select</small>
+				</label>
+			</div>
+
+			<h2>Notes</h2>
+			<label>
+				<span>Additional Notes (optional)</span>
+				<textarea name="additional_notes" rows="4" placeholder="Anything else to include"></textarea>
+			</label>
+
+			<div class="actions">
+				<button type="submit">Generate Policy</button>
+			</div>
+		</form>
+	</main>
+	<footer class="container">
+		<p>© {{ (now() if false) or '' }} Policy Generator</p>
+	</footer>
+</body>
+</html>

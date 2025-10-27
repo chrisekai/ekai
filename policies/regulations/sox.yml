@@ -1,0 +1,13 @@
+meta:
+  display_name: SOX
+
+sections:
+  - id: compliance
+    mode: append
+    content: |
+      Internal controls over financial reporting are designed, implemented, and tested in accordance with Sarbanes-Oxley (SOX) requirements. Management performs annual assessment and attestation.
+
+  - id: reporting
+    mode: append
+    content: |
+      Significant deficiencies and material weaknesses are reported to the Audit Committee of the Board in a timely manner.

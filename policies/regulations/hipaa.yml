@@ -1,0 +1,14 @@
+meta:
+  display_name: HIPAA
+
+sections:
+  - id: data_protection
+    mode: append
+    content: |
+      HIPAA Privacy, Security, and Breach Notification Rules are incorporated into the information governance and risk management framework.
+
+  - id: incident_response
+    title: Incident Response and Breach Notification
+    after: data_protection
+    content: |
+      Security incidents involving protected health information are investigated promptly. Breach notifications follow HIPAA timelines and content requirements.

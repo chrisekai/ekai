@@ -1,0 +1,23 @@
+meta:
+  display_name: Financial Services
+
+sections:
+  - id: governance
+    mode: append
+    content: |
+      A Risk Committee comprised of senior leaders from Markets, Operations, Compliance, and Technology meets monthly to review enterprise and material risk exposures.
+
+  - id: credit_risk
+    title: Credit Risk Management
+    content: |
+      {{ company_name }} maintains credit risk limits by counterparty, sector, and product. Limits are approved by the Risk Committee and monitored daily.
+
+  - id: market_risk
+    title: Market Risk Management
+    content: |
+      Value-at-Risk (VaR) and stress testing are used to assess market risk across trading portfolios. Breaches trigger immediate escalation.
+
+  - id: liquidity_risk
+    title: Liquidity Risk Management
+    content: |
+      Liquidity buffers are maintained in line with internal stress scenarios and applicable regulatory requirements.
