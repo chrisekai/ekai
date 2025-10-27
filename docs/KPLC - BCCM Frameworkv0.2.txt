@@ -1,0 +1,3170 @@
+www.pwc.com 
+ 
+Gearing up to fortify 
+KPLC to withstand 
+disaster 
+ 
+BCCM Framework  
+ 
+ 
+Project title: 
+Enterprise Risk 
+Management Program 
+for Kenya Power and 
+Lighting Company 
+Limited 
+Strictly private  
+and confidential 
+26 September 2016 
+  
+  
+ 
+PricewaterhouseCoopers Limited. PwC Tower, Waiyaki Way/Chiromo Road, Westlands  
+P O Box 43963 – 00100 Nairobi, Kenya 
+T: +254 (20)285 5000 F: +254 (20)285 5001    www.pwc.com/ke 
+Directors: U Akpata*  T Almassy#  S Cheruiyot  A Eriksson  J Kabochi  M Karama  K Muchiru  M Mugasa  T Mukora  A 
+Murage  F Muriu  S Mutinda P Ngahu  R Njoroge  S N Ochieng’  S Okello  B Okundi  K Saiti  R Shah  M Thoithi  M Wambugu  
+E Kerich M Nyabanda (* Nigerian) (# Hungarian) 
+Ms Beatrice Meso 
+General Manager 
+Corporate Affairs and Company Secretary 
+Kenya Power and Lighting Company (KPLC) Limited 
+P.O Box 30099 - 00100 
+Nairobi 
+Kenya 
+ 
+26 September 2016 
+Dear Beatrice  
+Subject: Submission of Business Continuity & Crisis Management Framework  
+It was a pleasure working with you and your team to offer consultancy services for the Enterprise 
+Risk Management (ERM) program for Kenya Power and Lighting Company Limited ( hereafter 
+referred as “Kenya Power”). 
+In accordance with your instructions as confirmed in our contract dated 21 September 2015, 
+PricewaterhouseCoopers Limited (herein referred as “PwC” or “we”) have designed a Business 
+Continuity and Crisis Management (BCCM) framework, which we hereby submit as a formal 
+deliverable of our engagement. 
+You may not make copies of this report available to other persons except as described i n the contract. 
+Where provision has been made copies are subject to the conditions described therein. We will not 
+accept any duty of care (whether in contract, tort (including negligence or otherwise) to any person 
+other than you, except under the arrangements described in our contract. 
+Should you wish to discuss the report further, please do not hesitate to contact Sydney Ondari or 
+myself. 
+Yours faithfully 
+ 
+ 
+Edward Kerich 
+Director 
+ 
+  Document Release Notice   
+Kenya Power BCCM Framework        
+PwC Strictly private and confidential 1 
+Document Release Notice 
+BCCM Framework 
+Version 1.0 
+Date of release: 26 September 2016 
+Authors Date 
+PricewaterhouseCoopers  26 September 2016 
+ 
+ Reviewers Date 
+Kenya Power and Lighting Company Limited  26 September 2016 
+ 
+Revision History 
+Release Issue Date Change Details Reviewed by  
+Version 0.1 8 September 2016 Draft BCCM framework submitted for 
+review of Kenya Power and Lighting 
+Company Limited 
+Risk and Integrity 
+Department (Kenya Power 
+and Lighting Company 
+Limited) 
+Version 1.0 26 September 
+2016 
+BCCM framework updated based on 
+comments received from Kenya Power 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Glossary of Terms   
+Kenya Power BCCM Framework   
+PwC Strictly private and confidential 2 
+Glossary of Terms 
+Abbreviation Term  Definition 
+A   
+AfDB African 
+Development Bank 
+ 
+   
+B   
+BCCM Business 
+continuity and 
+crisis management 
+ 
+BC Business 
+Continuity 
+The capability of the organisation to continue delivery of 
+products or services at acceptable redefined levels following a 
+disruptive incident 
+BCM Business 
+Continuity 
+Management 
+A holistic management process that identifies potential 
+threats to an organisation and the impacts to business 
+operations those threats, if realised, might cause, and which 
+provides a framework for building organisational resilience 
+with the capability of an effective response that safeguards 
+the interests of its key stakeholders, reputation, brand and 
+value-creating activities 
+BCP business continuity 
+plan 
+A documented collection of procedures and information that 
+is developed, compiled, and maintained in readiness for use 
+in an incident to enable an organisation to continue to deliver 
+its critical products and services at an acceptable predefined 
+level 
+BIA business impact 
+analysis 
+The process of analysing business functions and the effect 
+that a business disruption might have upon them 
+   
+C   
+ consequence Evaluated outcome of an event or a particular set of 
+circumstances  
+ confidentiality Preserving authorised restrictions on information access and 
+disclosure, including means for protecting personal privacy 
+and proprietary information 
+ contingency plan Plan comprising alternative methods of continuing business 
+operations in case of adverse situations 
+ contingency 
+planning 
+Planning for the unexpected or the possibility of 
+circumstances changing 
+CRA Continuity 
+Requirements 
+Analysis 
+The process to collect information on the resources required 
+to resume and continue the business activities at a level 
+required to support the organisation’s objectives and 
+obligations 
+ crisis A situation with a high level of uncertainty that disrupts the 
+core activities and/or credibility of an organisation and 
+requires urgent action 
+CM Crisis Management A process designed to prevent or lessen the damage a crisis 
+can inflict on an organisation and its stakeholders Glossary of Terms   
+Kenya Power BCCM Framework   
+PwC Strictly private and confidential 3 
+Abbreviation Term  Definition 
+CMT Crisis Management 
+Team  
+The heart of the corporate response to a disaster. It 
+comprises of the Managing Director and Chief Executive 
+Officer, all General Managers and all critical departmental 
+managers of Kenya Power 
+ critical A qualitative description used to emphasize the importance 
+of a resource, process or function that must be available and 
+operational either constantly or at the earliest possible time 
+after an incident, emergency or disaster has occurred  
+ critical activities Those activities which have to be performed to deliver the key 
+products and services and which enable an organisation to 
+meet the most important and time-sensitive objectives 
+   
+D   
+DAT Damage 
+Assessment Team 
+The DAT is responsible for conducting an initial assessment 
+of the emergency’s likely impact on Kenya Power operations 
+and work together with EC and ERT in that respect 
+ disaster A physical event which interrupts business processes 
+sufficiently to threaten the viability of the organisation  
+ disruption An event that interrupts normal business functions, 
+operations, or processes, whether anticipated (e.g. hurricane, 
+political unrest) or unanticipated (e.g. a blackout, terror 
+attack, technology failure, or earthquake) 
+ downtime A period in time when something is not in operation  
+   
+E   
+EC Emergency 
+Coordinator 
+EC assumes overall leadership of all emergency/ major 
+incident response activities. He is responsible to ensure that 
+the coordination of all emergency response activities among 
+the ERT, DAT and CMT  
+ERM Enterprise Risk 
+Management 
+ERM’s mission is to identify, assess, monitor, and report 
+major risks that could impede or otherwise negatively affect 
+achievement of the organisation’s strategic goals and 
+operational objectives 
+ERT Emergency 
+Response Team 
+ERT’s mission is to prevent a serious loss of profits, public 
+confidence or information assets by providing an immediate, 
+effective and skilful response to any unexpected event 
+ event Occurrence or change of a particular set of circumstances  
+ extended outage A lengthy, unplanned disruption in system availability due to 
+computer hardware or software problems or communication 
+failures 
+   
+F   
+FTL Finance Team 
+Leader 
+The FTL, when activated, will facilitate various 
+administration and financial activities 
+   
+I   Glossary of Terms   
+Kenya Power BCCM Framework   
+PwC Strictly private and confidential 4 
+Abbreviation Term  Definition 
+ impact Evaluated consequence of a particular outcome 
+ incident An event that has the capacity to lead to loss of or a 
+disruption to an organisation’s operations, services, or 
+functions – which, if not managed, can escalate into an 
+emergency, crisis, or disaster  
+ invocation Act of declaring that an organisation’s business continuity 
+arrangements need to be put into effect in order to continue 
+delivery of key products and services 
+   
+K   
+Kenya Power Kenya Power and 
+Lighting Company 
+Limited 
+ 
+   
+L   
+LO Liaison Officer The LO is responsible for all internal communications, 
+assistance to the ERT and EC. The LO also provides post-
+event report of activities 
+LTL Logisitics Team 
+Leader 
+The LTL, when activated will organise and coordinate the 
+provision of services and support to the ERT 
+   
+M   
+MTD maximum 
+tolerable 
+disruption 
+The duration after which an organisation’s viability will be 
+irrevocably threatened if a product or service delivery cannot 
+be resumed  
+MTPD Maximum 
+Tolerable Period 
+of Disruption 
+The time it would take for adverse impacts, which might arise 
+as a result of not providing a product/ service or performing 
+and activity, to become unacceptable. 
+ mitigation Limitation of any negative consequence of a particular 
+incident 
+   
+O   
+OTL Operations Team 
+Leader 
+The OTL, when activated, will direct and coordinate all 
+tactical operations associated with the business disruption 
+event 
+ outage A period in time when something is not in operation  
+   
+P   
+PIO Public Information 
+Officer 
+Emergency Response Public Information Officer, when 
+activated, is responsible for communication with any/all 
+third parties and the dissemination of information to 
+appropriate departments and individuals. The PIO also assist 
+the EC as directed and provide post-event report of activities 
+PLT Planning Team The PTL, when activated will prepare the Emergency Action Glossary of Terms   
+Kenya Power BCCM Framework   
+PwC Strictly private and confidential 5 
+Abbreviation Term  Definition 
+Leader Plan; will maintain situation and resource status, and 
+coordinate the BCCM activities 
+ process A set of interrelated or interacting activities which transforms 
+inputs to outputs 
+   
+R   
+RPO recovery point 
+objective 
+The target set for the status and availability of data 
+(electronic and paper) at the start of a recovery process. It is a 
+point in time at which data or capacity of a process is in a 
+known, valid state and can safely be restored from  
+RTO recovery time 
+objective 
+The target time for resuming the delivery of a product or 
+service to an acceptable level following its disruption  
+ redundancy The duplication of critical infrastructure support systems 
+with the intention of backing up the primary systems and 
+protecting against system down-time due to failure 
+ resilience The ability of an organisation to resist being affected by an 
+incident  
+ risk The effect of uncertainty on objectives. Combination of the 
+consequences of an event (including changes in 
+circumstances) and the associated likelihood of occurrence 
+ risk assessment Overall process of risk identification, risk analysis and risk 
+evaluation. 
+RM risk management Coordinated activities to direct and control an organisation 
+with regard to risk 
+   
+S   
+SO Safety Officer The SO when activated is responsible for monitoring and 
+managing physical and staffs safety conditions. The SO also 
+assist the EC as directed and provide post-event report of 
+activities 
+ stakeholder Individual or group having an interest in the performance or 
+success of an organisation e.g. customers, partners, 
+employees, shareholders, owners, the local community, first 
+responders, government, and regulators  
+   
+T   
+ threat A potential cause of an unwanted incident, which may result 
+in harm to individuals, assets, a system or organisation, the 
+environment, or the community  
+   
+V   
+ vulnerability The degree to which a person, asset, process, information, 
+infrastructure or other resources are exposed to the actions 
+or effects of a risk, event or other occurrence  
+   
+ 
+ 
+Table of Contents 
+Document Release Notice 1 
+Glossary of Terms 2 
+BCCM Policy 8 
+BCCM Framework 13 
+Appendix 1: Templates                                                               53 
+Appendix 2: Building resilience in your people           85 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+BCCM Policy   BCCM Policy 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 8 
+ 
+BCCM Policy 
+Mission & Vision of Kenya Power 
+The key mandate of Kenya Power is to plan for sufficient electricity generation and transmission capacity to meet 
+demand; building and maintaining the power distribution and transmission network and retailing of electricity to 
+its customers.  
+Kenya Power aims to achieve a business continuity and crisis management (BCCM) capability that can keep up with 
+the pace of change in the industry and introduce a clearly defined framework for the on-going BCCM capability 
+across the organisation, such that Kenya Power can continue servicing its customers at an acceptacle level, even in 
+the time of disruptive events. 
+ 
+Purpose of the policy 
+The Business Continuity and Crisis Management (BCCM) Policy (herein referred to as “Policy”) sets out a 
+structured and consistent approach to make sure that the business continuity risks of Kenya Power and Lighting 
+Company Limited (Kenya Power) are identified and reviewed, and that they are understood and appropriately 
+managed. This entails creation of an environment in which the management of business continuity risks is effective 
+and consistent across Kenya Power, in line with global standards and good practice, and enables management to 
+make informed decisions whilst mitigating identified risks. 
+The purpose of the BCCM Policy is to identify, monitor, understand and manage BCCM risks within Kenya Power. 
+ 
+Objective of the policy 
+The objective of this Policy is to clearly define, formalise, communicate and give direction to the way in which 
+BCCM should be implemented and managed within Kenya Power.  Achievement of the objective of the Policy should 
+result in: 
+ Preparedness for catastrophic events; 
+ Staff safety focus; 
+ Minimising financial and operational impacts to Kenya Power in the event of a disaster; 
+ Safeguarding facilities, business information and assets of Kenya Power; 
+ Providing timely availability of all key resources necessary to operate the critical business processes at a level 
+of operation that is acceptable to management; 
+ Maintaining stakeholder contact and confidence; 
+ Communicating BCCM documentation to all relevant parties; 
+ Regular testing, review and subsequent updating of all BCCM documentation; 
+ Establishing clear roles and responsibilities and delegations of authority;  
+ Defining clear allocation for ownership of BCCM; 
+ Applying consistent Management information reporting and escalation processes;  
+ Embedding a BCCM risk awareness culture through on-going training; and 
+ Providing BCCM reporting with independent assurance to the Board. BCCM Policy 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 9 
+ 
+Scope of the policy 
+The BCCM Policy is a Kenya Power-wide policy and covers the entire organisation (encompassing the Central Office 
+and regions). 
+ 
+Availability of policy 
+The Policy is for internal use and distribution only. The Policy is available to appropriate levels of staff via the 
+governance structures or risk management functions of Kenya Power.   BCCM Policy 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 10 
+ 
+Policy Governance Structure 
+The diagram below depicts the BCCM Governance Structure, along with detailed BCCM roles and responsibilities. 
+ 
+ 
+Note: The CMT comprises of the following:  
+ The Managing Director (MD) and Chief Executive Officer (CEO), acting as the CMT Leader, 
+ An alternate to the CMT Leader (who may be appointed by the MD and CEO) and 
+ All General Managers and critical Departmental Managers. 
+BCCM Policy 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 11 
+ 
+Policy review 
+The Policy is subject to annual review. Any proposed interim changes must be approved by the Kenya Power Crisis 
+Management Team (CMT). 
+ 
+Ownership of the policy 
+Ownership of this Policy is vested in the Business Continuity and Crisis Management Coordinator, who is 
+responsible for coordinating the drafting and/ or updating of the Policy on a regular basis. 
+ 
+Approval of the Policy 
+The Policy is approved by the Board upon recommendation from the CMT. 
+ 
+Actions for non-compliance 
+The actions for non -compliance with this Policy will be governed by the governance structure of risk management. 
+Instances of non -compliance will be reported to the appropriate level in the str ucture: Management Committee, 
+Code of Ethics and Human Resources. 
+The disciplinary rules and actions as set out under the Company’s Code of Ethics will apply to the Policy. 
+In the event of a significant breach of the Policy, the transgression will be immed iately escalated to the CMT, 
+followed by the Disciplinary Committee and finally the Board. Significant breaches of internal control systems will 
+also be escalated to the Disciplinary Committee. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+BCCM Framework 
+ BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 13 
+ 
+BCCM Framework  
+BCCM Framework 
+The CMT will define and establish a BCCM Framework to guide the implementation of an effective and robust 
+business continuity and crisis management (BCCM) programme aimed at ensuring the continuity of critical Kenya 
+Power business operations in the event of a disaster or disruption to normal operations.  
+The Plan-Do-Check-Act (PDCA) model shall be applied for planning, establishing, implementing, operating, 
+monitoring, reviewing, maintaining and continually improving the effectiveness of the BCCM  of Kenya Power. 
+ 
+ 
+A brief overview of the PDCA model has been provided below.  
+Component Description  
+Plan          
+(Establish) 
+As part of this component, the BCCM policy, objectives, controls, processes and procedures 
+relevant to improving business continuity and crisis management are established. This will 
+help deliver results that are aligned with the overall policies and objectives of Kenya Power.  
+Do            
+(Implement 
+and operate) 
+This encompasses the implementation and operating of the business continuity and crisis 
+management policy, controls, processes and procedures. 
+Check  
+(Monitor and 
+review) 
+This covers the monitoring and reviewing of performance against the BCCM policy and 
+objectives, reporting the results to Kenya Power management/ board for review, and 
+determining and authorising actions for mitigation and improvement.  
+Act           
+(Maintain and 
+improve) 
+Within this component, the BCCMS is maintained and improved through the implementation 
+of mitigating/ correcting actions, based on the results of Kenya Power management/ board 
+review and reappraising of the scope of the BCCM, the policy and objectives.  
+BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 14 
+ 
+1. Plan  
+As part of this component, there is the need to clearly understand the context of the organisation.  
+1.1 Context of the organisation 
+1.1.1 Understanding of the organisation and its context 
+The internal and external issues that affect the ability of Kenya Power to achieve the intended outcome(s) of its 
+BCCMS should be determined. 
+There is the need to identify and formally document the following:  
+1. The key activities of Kenya Power, its operations, functions, partnerships, supply chains, relationships 
+with different interested parties and the potential impact of a disruptive event; 
+2. The links between the BCCM policy and the objectives of Kenya Power and other relevant policies of the 
+organisation, including the ERM and 
+3. The risk appetite of Kenya Power. 
+Whilst establishing the context, there is the utmost need to: 
+ Set forth the objectives of Kenya Power with relation to business continuity and crisis management,  
+ List the internal and external factors that can hamper the business operations/ service delivery,  
+ Set risk criteria whilst considering the risk appetite of Kenya Power and  
+ Establish the purpose of the BCCMS in the organisation. 
+ 
+1.1.2 Understanding the needs and expectations of interested parties 
+The interested parties/ stakeholders that are relevant to the BCCMS of Kenya Power and their respective 
+requirements should be identified. This includes but is not limited to their expectations from Kenya Power.  
+Note: Some examples of interested parties would include the Ministry of Energy and Petroleum, the World 
+Bank and African Development Bank (AfDB). 
+Furthermore, there is the need to establish, implement and maintain a procedure for identifying the relevant legal 
+and regulatory requirements which apply to Kenya Power, continuity of its operations/ distribution services.  
+A register can be maintained for all identified legal, regulatory and other requirements to which Kenya Power 
+should comply. 
+Introduction or amendments of legal, regulatory or other requirements should be communicated to affected 
+personnel within Kenya Power and other interested parties (where applicable). 
+ 
+1.1.3 Determining the scope of the business continuity and crisis management system  
+Normally, the steps listed in this section are to be performed by the BCCM Coordinator, with the involvement of 
+the CMT. This involves deciding which divisions will be covered by the BCCMS.  
+The default recommendation is to involve all divisions across Kenya Power to participate and contribute to the 
+BCCM planning process. Nevertheless, Kenya Power management/ Board has a right to decide- if there is a valid 
+reason to exclude some divisions from the BCCM exercise due to its low criticality, this is the right time to do so.  
+When defining the scope, there is the need to formally document and e xplain exclusions (if any). 
+  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 15 
+ 
+1.2 Leadership  
+The top management and other relevant management roles throughout Kenya Power should demonstrate 
+leadership, support and strong commitment with respect to the BCCMS.  
+1.2.1 Leadership and commitment 
+The main focus of this step is to obtain the support of Kenya Power management and commitment of resources to 
+develop and maintain the BCCM programme in the organisation.  
+The top management/ Board has an explicit role to demonstrate their commitment in the development and 
+maintenance of the BCCM programme, by showing leadership in the executive of the BCCM programme.  
+Note:  
+The CMT would comprise of General Managers across the different divisions. The CMT lead er would most 
+likely be the Managing Director (MD) and Chief Executive Officer (CEO) or a delegated alternate. 
+The CMT may assign an executive sponsor in Kenya Power (e.g. General Manager , Network Management) 
+the task of overseeing the implementation of the programme and development and testing of the cont inuity 
+plans. 
+Furthermore, every Manager should be formally assigned the responsibility for the implementation and 
+management of BCCM within their area(s) of responsibility. 
+ 
+1.2.2 Management commitment 
+Kenya Power needs to demonstrate leadership and commitment with regards to the BCCM programme. This can 
+be done by undertaking the following: 
+1. Making sure that clear policies and objectives are established for business continuity and crisis 
+management, and these are in line with the strategic direction of Kenya Po wer; 
+2. Making sure that the requirements of the BCCM are incorporated into the business processes of the 
+organisation; 
+3. Making sure that resources needed to develop and maintain the BCCM programme are available;  
+4. Clearly setting out the importance of effective BCCM and need to abide with BCCM requirements across 
+Kenya Power; 
+5. Making sure that the intended outcome(s) of the BCCM programme are achieved;  
+6. Guiding and supporting Kenya Power personnel in contributing to the effectiveness of the BCCM 
+programme; 
+7. Putting initiatives in place to embed BCCM in the culture of Kenya Power;  
+8. Encouraging continual improvement of BCCM programme. 
+ 
+1.2.3 Policy 
+Kenya Power management needs to establish a BCCM Policy and make sure that it is: 
+ Maintained as documented information; 
+ Communicated across Kenya Power; 
+ Made available to interested parties (as required); 
+ Reviewed for continued appropriateness at agreed intervals and when significant change(s) occur.  
+ BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 16 
+ 
+1.2.4 Organisational roles, responsibilities and authorities 
+Kenya Power management needs to formally define, assign and communicate the responsibilities and authorities 
+for relevant roles within the organisation. 
+Responsibility and authority shall be defined for the following: 
+ Making sure that the controls established as part of the BCCM programme are in line with 
+internationally recognised standards and  
+ Regularly reporting on the performance of the BCCM to Kenya Power management.  
+Note: When assigning roles and responsibilities for the BCCM programme, there is the need to make sure 
+that the individuals have the necessary competencies and skills. 
+ 
+Some of the pre-requisite skills for the resources managing the BCCM programme of Kenya Power include but are 
+not limited to: 
+ Education: a bachelor degree in management of information systems, b usiness administration, risk 
+management or related degree with certificates from a recognised BCM body;  
+ Project/ programme management skills: track record of successful multi -discipline projects; 
+ Analytical skills and good understanding of Kenya Power processes, risks and controls; 
+ Planning skills to develop, implement and maintain plans; 
+ Good command of English (both verbal and written); 
+ Interpersonal skills with ability to effectively communicate and influence decision -making with Kenya 
+Power management; 
+ Training skills (for knowledge sharing and transfer to business representatives).  
+Note: Kenya Power management can demonstrate its commitment to the establishment, implementation, 
+operation, monitoring, review, maintenance and improvement of the BCCM progr amme by undertaking the 
+following: 
+ Establish a BCCM Policy; 
+ Make sure the objectives and plans for BCCM are set out;  
+ Formally defining and assigning roles, responsibilities and competencies for BCCM and  
+ Delegating the responsibility of BCCM to one or more persons, with the adequate authority and 
+competencies to lead the implementation and maintenance of the BCCM across Kenya Power.  
+ 
+Furthermore, Kenya Power management can make sure that responsibilities and authorities for the 
+implementation and maintenance of BCCM have been assigned and communicated by:  
+1. Formally defining the criteria for accepting risks and the acceptable levels of risk (currently in progress 
+through implementation of the ERM); 
+2. Participating in exercising and testing (e.g. being part of crisis simulation exercise to rehearse plan(s) 
+established); 
+3. Making sure that internal audits of the BCCM are undertaken, 
+4. Undertaking regular management reviews of the BCCM and 
+5. Demonstrating commitment to continual improvement of the BCCM programme across Kenya Power. 
+ BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 17 
+ 
+1.3 Planning 
+1.3.1 Actions to address risks and opportunities 
+There is the need to identify the risks and opportunities to be addressed to make sure th at thee BCCM can achieve 
+its outcome(s), prevent or mitigate negative effects and achieve continual i mprovement.  
+Kenya Power needs to set down its plan to implement actions to address the above mentioned risks and 
+opportunities, how to integrate these into the BCCM processes and evaluate the effectiveness of the actions.  
+ 
+1.3.2 Business continuity objectives and plans to achieve them 
+Kenya Power management needs to make sure the BCCM objectives are established and communicated in the 
+organisation. 
+The following needs to be considered when defining the BCCM objectives:  
+ The BCCM objectives needs to be consistent with the BCCM policy, 
+ The minimum level of service/ operations which is acceptable to Kenya Power to achieve its business 
+objectives; 
+ The BCCM objectives need to be measurable and  
+ The BCCM objectives need to be maintained. 
+Note: Kenya Power needs to retain documented information on the BCCM objectives. 
+ 
+1.4 Support 
+1.4.1 Resources 
+The next step is to determine and provide resources for the establishment, implementation, maintenance and 
+continual improvement of the BCCM programme across Kenya Power.  
+Note: This can be done by devising a BCCM programme schedule, which lays out the different tasks needed 
+to develop, implement, test and maintain the BCCM, the assigned responsibilities and the expected 
+timeframes. This ‘roadmap’ would ease the navigation through the BCCM process and also serve as a means 
+to monitor status of implementation. 
+There may also be the need to prepare a resource requirements and budget required to support the BCCM 
+programme. This would include but not be limited to: 
+1. project management costs,  
+2. estimated time and effort for Kenya Power team to attend interviews, workshops and exercises,  
+3. professional fees for consultancy/ support (if any), 
+4. office supplies costs, 
+5. project administrative support costs. 
+ 
+  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 18 
+ 
+1.4.2 Competence 
+This step is about developing the competence specifications and recommending appropriate personnel across 
+Kenya Power. 
+Resources who are assigned BCCM related tasks at different levels within Kenya Power, need to have the 
+appropriate level of competence for undertaking the assigned tasks. 
+Competence can be achieved by primarily understanding the skills required for the role and then providing 
+necessary opportunities for individuals to obtain the aforementioned skills. This can be achieved through training, 
+mentoring, knowledge sharing, etc. Kenya Power can also consider the hiring or contracting of competent persons.  
+We have provided below a sample competence inventory: 
+Role Duties and 
+responsibilities 
+Technical and behavioural 
+competency 
+Key performance 
+indicator 
+Crisis Management 
+Team Lead – 
+Managing Director 
+(MD) 
+ 
+Pre-crisis 
+• Make internal 
+communication about 
+any crisis activities 
+• Provide guidance and 
+strategic direction on 
+all BCCM matters 
+During Crisis 
+• Declare a crisis 
+following discussion 
+with CMT members 
+• Lead the CMT in 
+strategic decision 
+making during a crisis 
+• Take final decisions on 
+all matters regarding 
+recovery decisions 
+including investment 
+and resourcing 
+• Manage relationships 
+with key stakeholders, 
+especially Ministry of 
+Energy and Petroleum 
+Post crisis  
+• Lead the CMT to 
+approve post incident 
+reports and approve 
+expenditures out of the 
+normal procurement 
+procedures 
+• Share disaster report 
+with the Ministry of 
+Energy and Petroleum 
+• Quality assurance: 
+Understands BCCM related 
+best practice and suggests 
+organisation wide 
+improvements 
+• Vision: Provides others with a 
+clear vision and direction 
+• Decision making: Looks 
+business-wide to understand 
+underlying problem causes 
+and options for resolution 
+before making strategic 
+decisions in an emergency for 
+the good of the larger Kenya 
+Power and builds support for 
+those decisions 
+• Time management- Creates a 
+sense of urgency in the team – 
+but in a positive, energetic and 
+enjoyable way 
+• Interpersonal skills-Builds a 
+culture of openness within 
+CMT to encourage creativity, 
+trust and sound business 
+relationships that result in the 
+achievement of BCCM 
+objectives  
+• Leadership: Must be a 
+member of the Management 
+Executive Committee 
+-Leads others and acts as a 
+role model for good behaviour 
+• Organisation’s 
+compliance to 
+BCCM 
+accountabilities 
+highlighted in 
+BCP 
+• Number of crisis 
+situations 
+averted within 
+agreed timelines 
+ 
+ BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 19 
+ 
+1.4.3 Awareness 
+All Kenya Power personnel need to have an awareness of the BCCM progra mme and the role that they play in it. 
+Awareness sessions should be undertaken to communicate: 
+ the BCCM policy of Kenya Power; 
+ the need for BCCM in the organisation; 
+ the expectation/ contribution of each personnel to the effectiveness of the BCCM programme;  
+ consequences of not supporting the BCCM programme or not complying  with the BCCM requirements; 
+ the role of each personnel in the time of a crisis or disruptive event.  
+A training programme should be developed. 
+Note: Kenya Power can consider the dissemination of information through classroom -based trainings, 
+presentations at management and divisional meetings or including BCCM subject matter in other internal 
+trainings in the organisation. 
+ 
+1.4.4 Communication 
+There is the need to determine the internal and external communications relevant to the BCCM programme. This 
+encompasses: 
+ what is to be communicated,  
+ when is it to be communicated and  
+ to whom this is to be communicated. 
+Note: The assistance of the Corporate Communications section can be sought for this exercise.  
+ 
+ 
+  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 20 
+ 
+2. Do 
+2.1 Operation 
+2.1.1 Risk and Business Impact Analysis 
+Key Tasks  Key deliverables 
+• Preparation and set-up 
+• Identify business activities 
+• Assess business impact and determine priorities 
+• Identify business continuity resource requirements 
+• Business impact profile- prioritisation of business 
+activities 
+• Business continuity resource requirements 
+ 
+As part of the structured risk assessment process put in place through the ERM program, the following 
+information is already compiled namely: 
+ key activities of the organisation,  
+ assessment of key risks associated with the different business activities undertaken within the 13 
+divisions and  
+ the mitigating actions and/ or the risk treatment controls implemented.  
+Risk treatment involves the identification of options to reduce the co nsequences and/ or likelihood of an 
+unacceptable risk. Amongst all the options, BCCM is specifically a treatment for risks that could potentially 
+interrupt business operations and cause unacceptable consequences to Kenya Power.  
+The Business Impact Analysis (BIA) builds on this information and takes the analysis one step further to 
+determine the timeframes within which core activities of Kenya Power must be resumed following a crisis/ 
+disruptive event. These timeframes are then used to prioritise activities that are critical for business continuity 
+purposes.  
+The BIA involves identifying the critical business processes and related supporting resources within the divisions 
+of Kenya Power and determining the potential impact of an outage or disruption in servic es. The process includes 
+a comprehensive assessment of all business activities that are performed within the 13 division of Kenya Power, as 
+well as an analysis of the supporting resources that are required to perform these activities.  
+The BIA results will in turn be used to determine the alternatives and options for recovery of critical business 
+processes and will serve as an input for preparing the BCP Strategy Matrix and subsequently the Business 
+Continuity and Disaster Recovery plans. 
+  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 21 
+ 
+Key steps to consider when conducting the BIA: 
+ 
+Key methods, tools and techniques that can be employed to carry out the BIA for Kenya Power include:  
+ Interviews, 
+ Questionnaires and 
+ Workshops. 
+  
+BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 22 
+ 
+How to proceed to identify the critical processes 
+- ** Understanding impacts of disruptions 
+As part of the BIA exercise, there is the need to assess the impact and consequences over time of the unavailability 
+of key resources and consequently the core activities of the different divisions of Kenya Power. This encompasses 
+partial or whole, temporary or permanent unavailability of Kenya Power personnel, premises, organisational data, 
+vital records, etc. which underpin the different services. 
+Note:  
+The impacts of service unavailability have been categorised under the following:  
+ Financial Impact  
+Financial Impact considers value at risk over time; the increased /fixed cost for trading functions 
+(operational costs) as well as financial value of work lost for non-trading functions (loss of customers 
+who then go to produce their own electricity). 
+ Impact on clients 
+Impact on clients covers the impact of Kenya Power service unavailability to external clients. A service 
+outage may affect trust and confidence of clients, and consequently the reputation of Kenya Power.  
+ Impact on stakeholders 
+This encompasses the impact of disruption of Kenya Power activities to its key stakeholders (amongst 
+the Government of Kenya, more specifically the Ministry of Energy and Petroleum), and the key 
+development partners of Kenya Power- World Bank, AfDB, etc.). 
+ Impact on employees 
+This category covers likely impacts on employees (such staff and board of directors), e.g. on the staff 
+morale, their wellbeing, their productivity integrity (bribery) and subsequently the overall performance 
+of the organisation.  
+ Legal and Regulatory Compliance 
+Legal and Regulatory Compliance considers the impact of breaches of statutory duties or legal and 
+regulatory norms which Kenya Power is subject to. This includes but is not limited to National Energy 
+and Petroleum Policy and Energy Bill. 
+ 
+ 
+  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 23 
+ 
+- ** Identifying the critical processes 
+After the BIA meetings/ workshops, there is the need to assess the likely impacts that a disruption would have on 
+Kenya Power. 
+The following has been provided for guidance purposes: 
+Rating Financial 
+Impact 
+Impact through 
+Customers 
+Impact on 
+employees 
+Impact on 
+Stakeholders                
+(Internal/external) 
+Legal and 
+Regulatory 
+compliance 
+High Yes 
+(loss in 
+transaction 
+revenue) 
+Global + national 
+negative publicity 
++ Negative 
+compliance 
+behaviour 
+Staff morale + 
+Performance + 
+Integrity 
+Serious loss of 
+confidence 
+Breach of contracts + 
+claims demanded by 
+clients + major failure 
+in regulatory 
+compliance 
+Medium No Nation-wide 
+negative publicity 
+Staff morale + 
+Performance 
+Moderate loss of 
+confidence 
+Failure in regulatory 
+compliance 
+Low No Local negative 
+publicity 
+(minimal) 
+Staff morale Negligible loss of 
+confidence 
+(minimal) 
+No legal 
+repercussions/ 
+Minimal 
+ 
+The key output of this step is a list of the critical business activities. A consolidated business impact profile is to be 
+prepared for Kenya Power. 
+Note: It is very important that the consolidated business impact profile is presented and endorsed by Kenya 
+Power management as this would serve as a basis upon which the BCCM strategies and plans would be 
+developed. 
+ 
+2.1.2 Defining continuity requirements 
+There is the need to also define the minimum resource requirements for BCCM. This involves identifying broad 
+strategies, key dependencies and resources (people, IT systems and networks, premises and facilities,  and data 
+backup and offsite storage) needed to support the resumption of critical business activities within different 
+timeframes. 
+ 
+2.1.3 BCCM Strategy 
+As part of the BIA exercise undertaken in the previous step, the following have been identified:  
+ The list of critical business activities,  
+ The timeframe within which these should be resumed following a crisis or disruptive event and  
+ The minimum resources that need to be available to support the resumption of the critical activities 
+over time. 
+The abovementioned output is now to be used to define a set of response options to meet the requirements for 
+BCCM in Kenya Power. 
+  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 24 
+ 
+Note: 
+- A risk might be acceptable without any further action being taken. Even if it is not acceptable to Kenya 
+Power, the ability to do anything about some risks could be limited, or the cost of taking any action 
+disproportionate to the potential benefit gained. 
+- For some risks, the best response may be to transfer them. This might be done by conventional 
+insurance or contractual arrangements, or it might be done by paying a third party to take the risk in 
+another way. 
+- Risks may be transferred in order to reduce the risk exposure of Kenya Power.  
+- It is important to note that some risks are not (fully) transferable; in particular, it is genera lly not 
+possible to transfer reputational risk, even if the delivery of a service is contracted out.  
+- The purchase of insurance may form part of a risk treatment strategy and will provide some financial 
+recompense for some losses. 
+- In some cases, Kenya Power may consider to change, suspend or terminate the service, activity, function 
+or process. This option can only be considered where there is no conflict with the objectives, statutory 
+compliance and stakeholder expectation for Kenya Power. This approach is most likely to be considered 
+where a service, activity, function or process has a limited lifespan.  
+ 
+As part of this step, Kenya Power needs to consider strategic options for continuity of its critical activities.   
+Determining business continuity and crisis management strategy enables a range of strategies to be evaluated. 
+This allows an appropriate response to be chosen for each critical service, such that Kenya Power can continue to 
+deliver those services at an acceptable level of operation and within an  acceptable timeframe during and following 
+a disruption. 
+The following will help Kenya Power opt for the most appropriate strategies:  
+ The maximum tolerable period of disruption of the critical activities,  
+ The costs associated with the implementation of the strategies,  
+ The consequences of failure to act.  
+Strategies may be required for the following core resources, namely:  
+ People 
+There is the need to identify appropriate strategies for maintaining core skills and knowledge. This analysis 
+extends beyond Kenya Power employees to contractors and other stak eholders who possess specialist skills 
+and knowledge.  
+We have provided within the appendix of this document, some examples of how Kenya Power can build 
+capacity in its identified critical functions. 
+ Premises 
+A strategy should be devised for reducing the impact of unavailability of normal worksite(s) of Kenya Power.   
+For example, Kenya Power may consider alternate substations or alternate lines to reduce im pact of 
+disruptions. 
+ Technology  
+Strategies related to technology will be highly dependent on its relationship to the critical activities.  
+Kenya Power has already established a disaster recovery (DR) site. There is now the need to understand if the 
+strategies established are adequate- whether the replication/ backup arrangements meet the requirements of 
+the business and/ or the DR site would pick up if the main site (Stima Plaza data centre) were down.  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 25 
+ 
+ Information 
+Strategies need to be devised to make sure that the different types of information (physical and electronic) 
+needed for the operation of Kenya Power business activities, are protected and recoverable within set 
+timeframes after a crisis/ a disruptive incident has hit. 
+Kenya Power is reliant on information held within its systems, as well as physical documents.  
+ Supplies 
+Kenya Power needs to identify and maintain an inventory of core supplies that support its critical activities.  
+This includes but is not limited to spare parts for interventions (netwo rk related), spare equipment (for IT), 
+stationery for administrative purposes. 
+ Stakeholders 
+Kenya Power needs to consider the interests and expectations of its key stakeholders when determining and 
+selecting BCCM strategies. These should contemplate relevant social and cultural considerations. 
+Strategies should be devised to manage relationships with key stakeholders, development partners and 
+contractors. Different groups may require particular considerations.  
+A person or group of persons need to be identified and assigned the task of discharging responsibility for 
+welfare issues after a crisis/ disruptive incident. 
+Note: Kenya Power management needs to sign off the documented strategies to confirm suitability of the 
+chosen continuity strategies to meet the objectives of the organisation within its risk appetite. 
+ 
+2.1.4 Establish and implement business continuity procedures 
+Developing and implementing a BCCM response results in the creation of a BCCM governance framework and a 
+structure of crisis management, emergency/ incident management, and business recovery plans that detail the 
+steps to be taken during and after a major incident/ emergency to maintain or restore operations. 
+This serves as a reference for Kenya Power personnel to respond in a way that is c onsistent with the approved 
+continuity strategies of Kenya Power in the event of a major disruption.  
+Note: A plan document is not a complete, step-to-step manual as each and every incident that occurs is 
+unique, with varying levels of threats and business impact to Kenya Power. 
+The first step would be to identify and appoint divisional representatives to work on the continuity plans.  
+Each division participating in the BCCM programme will have to develop some steps to perform in case of a 
+disaster, attend BCCM drills and contribute in few other ways. 
+These people will be the main contact points in the subsequent steps. There is the need to make sure that at least 
+one person is assigned in each division at this stage. That person could be a General Manager, a Manager, his/ 
+her deputy or a trusted subject matter expert of appropriate seniority level within the division.  
+Now it is time to document the plans. These plans would assist Kenya Power to effectively manage a disruption 
+and ultimately resume the critical business functions. 
+  BCCM Framework 
+ 
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 26 
+ 
+Note: Very often, one of the challenges experienced by organisations, is to identify the important and 
+relevant risks amongst all that can possibly go wrong and result in business disruption. One of the 
+techniques to overcome this challenge is the development and use of risk scenarios.  
+Kenya Power can perform a scenario analysis of the identified risks and relev ant business impacts. A list of 
+generic scenarios can be used to define a set of concrete and customised scenarios, applied to the situation 
+of Kenya Power. 
+Some areas of risks / disaster scenarios which could result in power outage and could be considered are as 
+follows: 
+ Terrorist attack/ sabotage at one of the prime sites of Kenya Power (e.g. National Control Centre)  
+ Unavailability of substation at Juja due to fire 
+ Fire in one of the main administrative offices (e.g. Stima Plaza- also hosting the main data centre) 
+ Outage resulting from overhead/ underground cable system failure (e.g. electrochemical treeing) 
+ Unavailability of critical functions (e.g. due to strike, pandemic outbreak) 
+ Transformer(s) failure resulting in major outage 
+ Tree contact (falling over conductors) and causing outage 
+ Vandalism (theft of conductor wire, equipment, etc.) 
+ Natural weather phenomena 
+ 
+The Business Continuity Plans will comprise of three high level documents; the Emergency Response Plan (ERP), 
+the Crisis Management Plan and Recovery Procedures.  
+The Emergency Response Plan will be location specific (for Kenya Power- administrative office or substation); it 
+will guide on how first time response to a particular incident is conducted. A common template will be provided 
+and will be used across the board.  
+The Crisis Management Plan will be in a central location where key people  (General Managers, along with the 
+Managing Director of Kenya Power) are going to be sitting; though from the BIA, it could be determined if there 
+is need to have another regional specific Crisis Management Plan that reports to the Central one at 
+Headquarters.  
+The Recovery Procedures will be developed at operational level (station specific) focused at business recovery.  
+The IT DRP will cover recovery procedures for IT system recovery. These will be the alternative processes and 
+procedures to be used in the event of a crisis and they shall be developed by the end users themselves with the 
+guidance of the BCCM Coordinator.  
+Note: Templates have been provided and attached as annexure of this document. These have been provided 
+for guidance purposes only. Kenya Power would need to customise the templates after the BIA exercise and 
+selection of appropriate recovery strategies. 
+ 
+Refer to appendix 1.1 for templates (Business Continuity Plan Template)  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 27 
+ 
+Business Continuity Management Stages 
+There are three main stages over time of an incident, namely: 
+ Initial response and disaster declaration, 
+ Business continuity and 
+ Resumption (back to normal). 
+Stage I: Initial Response and Disaster Declaration 
+This stage deals with the immediate response to a major business disruption, within minute s of its occurrence. This 
+stage includes the following broad activities: 
+i. Initial Response and Notification of a potential disaster 
+ii. Damage Assessment and Escalation 
+iii. Disaster Declaration and Communication to relevant stakeholders 
+Details of activities to be undertaken for initial response and disaster declaration at Kenya Power have been 
+catered for in the Emergency Response Plan (ERP). 
+Possible emergency situations include any event that may inhibit the ability of Kenya Power to perform work as 
+usual, including, but not limited to: 
+ Natural risks (such as Earthquake, Fire, Flood, Hurricane) 
+ Environmental risks (such as Power interruption, Communications interruptions, Explosion/Fire, Aircraft 
+crashes, Contamination) 
+ Incited risks (Bomb Threats, Sabotage, Vandalism, Riots) 
+Stage 2: Business Continuity 
+Different divisions of Kenya Power will need to follow their recovery procedures within minutes of being informed 
+of the disaster. 
+Mobilisation of required teams and resources to the alternate site will be done as part of this stage. In case the 
+primary resource identified for each activity is unavailable, the secondary personnel identified will be responsible 
+for carrying out the activity. This stage will also cover salvage operations at the primary site in  order to recover any 
+critical IT and non‐IT resources.  
+This stage includes the following broad activities: 
+i. Invocation of process recovery procedures 
+ii.  Mobilization of resources 
+iii.  Emergency control centre activities 
+iv.  Salvage operations at the primary site 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 28 
+ 
+Stage 3: Resumption Back to Normal 
+This stage deals with the efforts to return to the normal mode of operation at the primary location for each unit. 
+The objective is to return the business environment and operations to pre ‐disaster conditions. Depending on the 
+damage caused by the incident, this can go on for days to weeks to months.  
+This stage includes the following broad activities: 
+i. Inspection and assessment of the primary site 
+ii. Make long term recovery plans to rent new offices in case the primary site cannot be recovered from the 
+disaster 
+iii. Repairs at the primary site 
+iv. Relocation to primary site 
+ 
+The BCP process flow below identifies the recovery actions that are required in the situation of a disaster and shows 
+where and how the different plans in this BCP document get invoked to enable a timely recovery of the critical 
+business processes. The different teams identified in the BCP have a key role to play at both pre -crisis and post-
+crisis stages to make this BCP effective.  
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 29 
+ 
+ 
+BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 30 
+ 
+Business Continuity & Crisis Management Structure 
+This section lists the different roles and responsibilities of each team within the business continuity and crisis management structure of Kenya 
+Power. 
+ 
+ 
+ 
+ 
+ 
+  
+BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 31 
+ 
+Crisis Management Team 
+Description of the role: The Crisis Management Team (CMT) will decide on the course of actions to be 
+taken based on the report from the Business Continuity & Crisis Management 
+Coordinator. 
+The responsibilities of the 
+Crisis Management Team 
+include but are not 
+limited to: 
+ Maintain contact with the BCCM Coordinator and members of the 
+Emergency Response Team, Damage Assessment Team and Recovery 
+Teams (Regional and Divisional) 
+ Respond to requests for information 
+ Inform of changes in strategy 
+ Periodically receive reports from the various teams against target time 
+scales 
+ Check recovery progress against critical timeframes 
+ Make decision in problem areas and exceptions 
+ Schedule of subsequent actions 
+ Assess the crisis situation and respond accordingly 
+ Plan on what decisions need to be taken under the given circumstances 
+and take the decision to invoke the BCP if found necessary 
+ Direct the necessary teams on the actions to be performed 
+ Coordinate and manage the relationship with the media 
+ Handle legal issues 
+ Approve and authorise extra expenses and extraordinary investments 
+ Steer relationship with public authorities 
+ Authorise the occupancy of the DR site and any other alternative recovery 
+site and resumption back to original site 
+ Conduct regular CMT briefings on progress and strategy 
+ 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 32 
+ 
+Crisis Management Leader 
+Description of the role: The Crisis Management Leader is the Chairman of the Crisis Management 
+Team. 
+The responsibilities of the 
+Crisis Management 
+Leader include but are 
+not limited to: 
+ Lead the crisis management team at all times during a disaster. 
+ Take final decisions on all matters regarding recovery decisions including 
+investment and resourcing.  
+ 
+ 
+Business Continuity & Crisis Management Coordinator 
+Description of the role: The Business Continuity & Crisis Management Coordinator will be the point of 
+contact to address any incident that can potentially turn into a crisis/disaster.  
+Business Continuity & Crisis Management Coordinator will be a member of the 
+Crisis Management Team.  
+The responsibilities of the 
+Business Continuity & 
+Crisis Management 
+Coordinator include but 
+are not limited to: 
+ Co‐ordinate with the Emergency Resp0nse Team and Recovery Team s for 
+emergency response and business recovery respectively 
+ Take strategic decisions along with the CMT based on the findings of the 
+Damage Assessment Team/ Emergency Response Team and the impact on 
+business operations of Kenya Power 
+ Administer and ensure constant monitoring of all teams during a disaster  
+ Record any emergency/ major incident reported in an incident log 
+ Business Continuity & Crisis Management Coordinator in coordination 
+with the Damage Assessment Team/ Emergency Response Team will 
+coordinate initial rapid assessment of the situation in order to determine:  
+ Kenya Power employees status 
+ State of networks 
+ Impact to operational capability 
+ Asset/ premises status 
+ Requirement to declare a disaster 
+ Activation of Response / Recovery procedures 
+ Conduct a Root Cause Analysis for all incidents and submit the 
+incident report to the Crisis Management Team 
+ Formal closure of an incident  
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 33 
+ 
+Divisional/ Regional Recovery Team 
+Description of the role: The role of the Recovery Team is to provide assistance for resumption of 
+normal business functions at Kenya Power. 
+The responsibilities of the 
+Divisional/ Regional 
+Recovery Team include 
+but are not limited to: 
+ Receive instruction from the Business Continuity & Crisis Management 
+Coordinator that the BCP has been invoked 
+ Ensure the respective processes can recover efficiently during the disaster, 
+both at the alternate site (if any) as well as during normalisation (when the 
+processes have to be resumed at the Kenya Power primary site) 
+ Ensure the required resources are available on time and deployed 
+effectively during disaster 
+ Ensure that the critical business processes are up and running at the 
+earliest at the recovery sites 
+ Coordinate with the Emergency Response Team/ Damage Assessment 
+Team to produce post incident report for all outages and forward such 
+reports to the Business Continuity & Crisis Management Coordinator for 
+finalisation. 
+  
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 34 
+ 
+Crisis Communication Plan 
+The objective of the crisis communication plan is to effectively and efficiently manage communications during a 
+crisis through a formal and clearly defined channel of communication to the employees and the various 
+stakeholders.  
+Communication of Disaster to Media 
+The designated communication spokesperson of Kenya Power (e.g. Corporate Communications) will speak to the 
+media in the event that a disaster is declared and Kenya Power is unlikely to restore any of its business operations. 
+The plan to manage media relations is as follows: 
+A. If the situation warrants (CMT decision), issue a public notice by means of an advertisement and issue a Press 
+Release. The standard format of the advertisement would be as under: 
+ The advert would be issued in the name of the person making the statement. 
+ Corporate Logo of Kenya Power. 
+ A brief description of the event and the damage caused. 
+ The operations that have been hampered and alternative if any made for such operation. 
+ Contact address and phone/ fax of alternative site operation. 
+B. At the discretion of the Managing Director or a person deputed by the Managing Director, select press 
+briefings may be held.  
+If it is immediately known that Kenya Power employee(s) have been injured, this should be included in the 
+preliminary announcement to the media. This announcement shall have a statement that, "The exact extent of the 
+injuries and the names of the employees injured are unknown at this time."  
+Any announcement to the media should also contain the name and telephone number of a contact who is available 
+to answer any questions that media/ public may have.  
+A sample format for preliminary notification of Disaster to the media has been provided in the appendix of this 
+document.  
+A helpline can be set up for employee and stakeholder communication. The Corporate Communications section will 
+handle the calls.  
+Communication to Employees 
+Based on the detailed assessment of the DAT/ ERT and the estimated ti me required to recover from the disaster, 
+the CMT will make a preliminary announcement to communicate the event to Kenya Power employees. 
+The media to be used for the announcement will depend on the intensity of the disaster and also the available 
+means for communication. The following means of communication could be used:  
+1. Phone 
+2. Email 
+Refer to appendix 1.2 for sample formats for preliminary notification of disaster. 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 35 
+ 
+Emergency Response Plan 
+Purpose and scope 
+The emergency response plan establishes the recommended organisation, actions and procedures needed to: 
+ Recognise and respond to an incident;  
+ Assess the situation quickly and effectively;  
+ Notify the appropriate individuals and organisations about the incident;  
+ Organise the company’s response activities, including activating Crisis Management Team;  
+ Escalate the company’s response efforts based on the severity of the incident and  
+ Support the business recovery efforts being made in the aftermath of the incident.  
+Roles and responsibilities 
+Emergency Response Team (“ERT”)  
+An ERT should be established to provide a quick, effective and orderly response to incidents which are reported. 
+The ERT’s mission is to prevent a serious loss of profits, public confidence or information assets by providing an 
+immediate, effective and skilful response to any unexpected event.  
+The ERT is authorised to take appropriate steps deemed necessary to mitigate or resolve an emergency/ major 
+incident. The team is responsible for investigating suspected security incidents in a timely, cost -effective manner 
+and reporting findings to the Emergency Coordinator and/or management and the appropriate authorities as 
+necessary.  
+In addition, the ERT assists in communication exercises, reporting and support to the Emergency Coordinator and 
+members of the Crisis Management Team. 
+Emergency Coordinator (“EC”) 
+The EC assumes overall leadership of all emergency/ major incident response activities. He is responsible to ensure 
+that the coordination of all emergency response activities among the ERT, Damage Assessment Team (“DAT”), 
+Crisis Management Team (“CMT”).  
+Refer to the following appendices for sample checklist highlighting sequence of activities to the f ollowed: 
+ appendix 1.4 for the Initial Emergency Response Checklist  
+ appendix 1.5 for the Emergency Response Team Task Checklist, 
+ appendix 1.6 for the Emergency Response Team Meeting Checklist, 
+ appendix 1.7 for the Emergency Coordinator Task Checklist, 
+ appendix  1.8 for the Emergency Response Recommendations and 
+ appendix 1.9 for the Actions Following a Disaster Declaration  
+for other tasks that the Emergency Coordinator needs to follow in the event of a major business disruption at 
+the Kenya Power office.  
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 36 
+ 
+Emergency Response Public Information Officer (“PIO”) 
+The PIO, when activated, is responsible for communication with any/all third parties and the dissemination of 
+information to appropriate departments and individuals. The PIO also assist the EC as directed and provide post-
+event report of activities. 
+Refer to appendix 1.10 for the Public Information Officer Task Checklist for other tasks that the PIO needs follow in 
+the event of major business disruption at the Kenya Power office. 
+Liaison Officer (“LO”) 
+The LO is responsible for all internal communications, assistance to the ERT and EC. The LO also provides post-
+event report of activities. 
+Refer to appendix 1.11 for the Liaison Officer Task Checklist for other tasks that the Liaison Officer needs  follow in 
+the event of a major business disruption at the Kenya Power office. 
+Safety Officer (“SO”) 
+The SO when activated is responsible for monitoring and managing physical and staffs safety conditions. The SO 
+also assist the EC as directed and provide post-event report of activities. 
+Refer to appendic 1.12 for the Safety Officer Task Checklist for other tasks that the SO need follow in the event of 
+major business disruption at Kenya Power. 
+Damage Assessment Team (“DAT”) 
+The DAT is responsible for conducting an initial assessment of the emergency’s likely impact on Kenya Power 
+operations and work together with EC and ERT in that respect. The DAT assembles, investigates the incident using 
+the DAT checklist.  
+Planning Team Leader (“PTL”) 
+The PTL, when activated will prepare the Emergency Action Plan; will maintain situation and resource status, and 
+coordinate the BCCM activities. 
+Refer to appendix 1.13 for the Planning Team Leader Task Checklist for other tasks that the PTL n eeds follow in the 
+event of major business disruption at Kenya Power. 
+Logistics Team Leader (“LTL”) 
+The LTL, when activated will organise and coordinate the provision of services and support to the ERT.  
+Refer to appendix 1.14 for the Logistic Team Leader Task Checklist for other tasks that the Logistic Team Leader 
+needs follow in the event of major business disruption at Kenya Power. 
+Operations Team Leader (“OTL”) 
+The OTL, when activated will direct and coordinate all tactical operations associated with th e business disruption 
+event. 
+Refer to appendix 1.15 for the Operations Team Leader Task Checklist for other tasks that the OTL needs follow in 
+the event of major business disruption at Kenya Power. 
+Finance Team Leader (“FTL”) 
+The FTL, when activated will facilitate various administration and financial activities.  
+Refer to appendix 1.16 for the Finance Team Leader Task Checklist for other tasks that the FTL needs follow in the 
+event of major business disruption at Kenya Power. BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 37 
+ 
+Plan invocation 
+A few examples of scenarios which would trigger the invocation of the ERP are as follows:  
+Potential Risks Scenarios 
+Unavailability of key personnel 
+(e.g. Managing Director, GM, 
+specialised engineers and other 
+key staff) 
+ Key personnel  have been kidnapped or is a victim of a riot 
+ Contamination in an area or building 
+Unavailability of key/ important 
+suppliers 
+ 1 or more key suppliers have been affected by a bomb attack or riot or 
+natural catastrophe when their intervention is required 
+Information loss  The National Control Centre is unavailable, resulting in outage 
+ The data centre and/or other critical premise of Kenya Power suffers 
+from power outage and/or failure in IT equipment including 
+telecommunications line and/ or failure of networks 
+ The data centre suffers from natural catastrophe (such as fire) or 
+incident (such as vandalism) and the DR site is unable to resume 
+services  
+Unavailability of premise (incl. 
+intentional or unintentional 
+acts) 
+ A critical premise of Kenya Power is unavailable or partially available 
+due to natural catastrophe, a fire a bomb attack or bomb attack alert 
+ Particular substation is unavailable, resulting in outage in one or more 
+areas 
+Immediate Actions 
+1. The first person to observe the business disruption event or to be informed of any of the above scenarios 
+should immediately notify the EC or his/ her alternate and the DAT. 
+2. In the event that the EC and his/ her alternate are not available, the incident should be reported to any 
+other member of the ERT. 
+3. The DAT will then assemble and investigate the event using the DAT checklist and will determine if the ERT 
+needs to be activated. 
+4. Refer to initial emergency response checklist for other tasks which need to b e followed in the event of major 
+business disruption at Kenya Power. 
+ 
+Document owner and maintainer 
+The Emergency Coordinator is the primary owner of the plan and is responsible for reviewing, amending and 
+updating the plan at regular intervals (as and when the Emergency Coordinator comes across new information that 
+impacts on the Emergency Response Plan and on an annual basis). Any change to the document should be 
+approved by the CMT. 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 38 
+ 
+Task and action lists 
+The Emergency Response Plan includes the task lists and action checklists to manage the immediate consequences 
+of a business disruption. These tasks: 
+ ensure that safety of individuals is addressed first; 
+ are based upon the results of the organisation’s BIA; 
+ are structured in a way that delivers the strategic and tactical options chosen by the organisation; and 
+ help prevent the further loss or unavailability of critical activities, and supporting resources  
+The task checklists attached in appendix are to be followed in the event of major business disruption at Kenya 
+Power. Follow the recommended sequence of actions below during the initial minutes after the occurrence of the 
+event.  
+ 
+Standing Down from Invocation 
+The following actions need to be considered if the plan is NOT to be invoked:  
+ Notify all members of the CMT of stand down. 
+ Notify other employees as appropriate. 
+ Notify the ERT members to restore suspended facilities and services.  
+ DAT/ ERT must submit a report to the CMT for review. 
+Refer to appendix for Emergency Response Team task clecklist . 
+ 
+ERT meeting  
+The ERT meeting is done on a regular basis until the incident has been resolved.  
+Refer to appendix for ERT meeting checklist. 
+ 
+Emergency Coordinator  
+After completing the Initial Incident Response Checklist, the EC should undertake the sequenc e of tasks as 
+indicated by the Emergency Coordinator Task Checklist indicated in the appendix.  
+ 
+Command Centre task checklist 
+Assuming the Crisis Management Team is activated by the EC, recommended sequences of actions should be 
+facilitated by individuals assigned to the specific positions. 
+Refer to appendix for the following: 
+ Public Information Officer Task Checklist 
+ Safety Officer Task Checklsit 
+ Liaison Officer Task Checklist 
+ Planning Team Leader Task Checklist BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 39 
+ 
+ Logistics Team Leader Task Checklsit 
+ Operations Team Leader Task Checklist 
+ Finance Team Leader Task Checklist 
+ 
+Emergency contacts 
+The LO/PIO/EC will act as the spokesperson(s) of Kenya Power. The most effective means of communication will 
+be identified in the light of the situation and depending on the recipient of the information, for instance, verbal, 
+meetings, email, text message, telephone, mobile phone.  
+The LO/PIO/EC will be responsible for emergency/key contacts communication. 
+Managers will be responsible for communication to their respective s taffs/relatives/friends using the employee 
+calling list appended to this plan.  
+  
+Media response 
+Depending on the situation identified, communication with the media will be made. The PIO will assist with the 
+release of information to the media in a formal press release. This information will not be released until approved 
+by CMT. 
+ 
+Stakeholder management 
+Other key stakeholders identified are Suppliers and Customers. The organisation will communicate with them on a 
+case by case basis. 
+ 
+Incident management location 
+The location from which the incident will be managed will depend on the incident and its severity. The main 
+location is the Command Centre with details provided in the appendix.  
+ 
+Annexes 
+Up-to-date contact and mobilization details for any relevant agencies, organisations and resources that might be 
+required to support the organisation’s response strategies, logs or forms for the recording of vital information about 
+the incident, such as the incident timeline, details of casualties, decisions made, m oney spent, details of casualties, 
+damage assessments, communications issued, and all other information deemed essential by the organi sation to 
+support post incident review.  
+Refer to appendix 1.17 for annexure templates for the ERP. 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 40 
+ 
+Recovery Teams Procedures 
+ 
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 41 
+ 
+Recovery Teams Procedures 
+The Recovery Procedures deal with the continuity of critical processes following the declaration of a disaster and 
+resumption– back to normal. 
+Objective:  The objective of the recovery procedures is to provide 
+a framework within which Kenya Power shall resume 
+its critical processes in the event a disaster is declared. 
+Plan owner and responsibility:  The owner of the recovery procedures is the Crisis 
+Management Leader. 
+The Business Continuity & Crisis Management 
+Coordinator will be responsible for reviewing, 
+amending and updating the plan. 
+Background: The recovery procedures apply to the following 
+divisions: 
+ Critical divisions identified in BIA to be listed… 
+ Critical regions identified in BIA… 
+The recovery procedures has been suggested after a 
+complete understanding of the organisation’s business 
+priorities and risks and determining appropriate 
+business continuity strategies. 
+ 
+Mobilisation of Resources 
+Once a disaster is declared and the Recovery Teams Procedures is invoked, the Recovery/Resumption Team will 
+make logistic arrangements and mobilise other Recovery/Resumption Team to the affected and/ or respective DR 
+site. 
+Critical processes will activate their respective Recovery/Resumption plans and resume work at their respective DR 
+site. 
+Invocation of Recovery Teams Procedures 
+The process recovery teams will invoke their respective recovery plans.  
+These plans contain the following sections: 
+i. Introduction: This section defines the purpose and scope of the plan.  
+ii. Plan owner: This section refers to the owner of the plan and his/her responsibility towards the plan.  
+iii. Recovery Time Objective (RTO) Requirements: This section lists the RTO requirements of the critical 
+process of the respective business unit. 
+iv. Activity/Tasks List: This section provides the details of tasks that will be required to resume the critical 
+processes. 
+v. Communication with stakeholders: This section lists the names of all stakeholders who will need to be 
+contacted and who will contact in case of disaster declaration. BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 42 
+ 
+vi. Resource requirements: This section lists the resources, forms, records/documents etc. required to 
+recover/ resume the process 
+vii. Contact Details: This section lists the contact details of employees, stakeholders and suppliers for the 
+respective process.  
+Listed below are the recovery procedures for critical divisions/ regions:   
+Sr. No Process Recovery Plans 
+1  
+2  
+3  
+ 
+Resumption‐Back‐to‐Normal 
+While the critical processes resume operations from the affected sites and/ or different DR sites, efforts to bring the 
+operations back to normal at the primary site of Kenya Power will be made. This will include damage assessment, 
+salvaging and the replacement and relocation to the primary site.  
+Inspection and Assessment of the Primary Site 
+Activities to be followed in this phase have been included in the appendix. Refer to appendix 1.18 for Resumption-
+Back-to-Normal checklist. 
+ 
+Repairs at the primary site 
+The activities to be undertaken as repairs are done at the primary site have been included in the appendix. Refer to 
+Repairs at the primary site checklist. 
+ 
+Relocation to the Primary Site 
+Refer to appendix 1.19 for the relocation to primary site checklist highlighting the activities to be undertaken during 
+the relocation of Kenya Power operations from the different DR sites to the primary sites.  
+Details of sections to be included as annexure of the Recovery Teams Procedures document, have been included in 
+the appendix 1.20. 
+ 
+ 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 43 
+ 
+IT Disaster Recovery Plan 
+Kenya Power business functions are dependent on information technology services including networks, systems and 
+applications for daily business operations. The inability of information technology services to function would immediately 
+impact the operations at Kenya Power and subsequently, resulting in significant work backlog.  
+There is the need for the development of an IT Disaster Recovery Plan (IT DRP) to guide the efficient recovery of 
+information systems supporting Kenya Power. The aforementioned document should outline the background, 
+procedures, and contact information to recover critical networks, systems and applications.  
+Proper execution of the DRP will help facilitate the timely recovery of key information systems, minimising business 
+disruption. The DRP is an imperative component to the successful resumption of business functions at Kenya Power. This 
+document also takes into consideration the broader perspective of business continuity, incorporating the elements from 
+Kenya Power Business Impact Analysis (BIA). 
+Note: The DRP is not intended as the definitive course of action. The IT Department may need to modify the plans and 
+identify other action steps or solutions, to respond to, and recover from, a specific situation or account for unknown 
+variables not addressed within this document.  
+The DRP is designed to assist in minimising the effect of a disaster event, by ensuring the restoration of essential 
+processing within the recovery time objectives (RTOs) established by the BIA.    BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 44 
+ 
+Policy Statement 
+Xxxxxxxxxxxx 
+ 
+Objective 
+The principal objective of the disaster recovery program is to develop, test and document a well -structured and 
+easily understood plan which will help the organisation recover as quickly and effectively as possible from an 
+unforeseen incident or emergency which interrupts information systems and business operations.  
+ 
+Assumptions 
+In order for the plan to be effective, these recovery procedures will rely on the following critical assumptions though 
+this list is not conclusive.   
+ Effective Backup & Restore Procedures 
+ Functional, regularly updated & tested Disaster Recovery Plan  and Disaster Recovery Site 
+ Procedures are sufficiently detailed for someone else to follow other than the person primarily responsible 
+for the work. 
+ Staff are available to perform critical functions defined within the disaster recovery plan.  
+ Staff can be notified and can report to the Disaster Recovery site to perform critical processing, recovery 
+and reconstruction activities. 
+ Availability of redundant hardware 
+ Effective SLAs are in place and regularly reviewed 
+ An incident may require Kenya Power staff to function with limited automated support and some 
+degradation of service, until full recovery is made. 
+ 
+Plan Updating 
+It is necessary for the IT DRP updating process to be properly structured and controlled.  Whenever changes are 
+made to the plan they are to be fully tested and appropriate amendments should be made to the training materials. 
+This will involve the use of formalized change control procedures under the control of th e xxxxx (DR Project 
+Sponsor) and the plan will be updated by the xxxxxxxx.  
+ 
+Plan Documentation Storage 
+Soft copies of this Plan (CDs, USB flash and hard drives) and hard copies will be stored in secure locations to be 
+defined by the organisation.  (It is recommended that relevant persons who should have access to the plan be 
+identified and issued with the confidential copy of the plan for secure storage, preferably onsite and offsite). A 
+master protected copy will be stored on specific resources establishe d for this purpose. 
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 45 
+ 
+Primary Data Centre Layout & Infrastructure  
+Diagram 1: Primary Data Centre Layout  
+Diagram 2: Primary Data Centre Infrastructure 
+ 
+Disaster Recovery Design Overview   
+Diagram 3: DR Centre Layout 
+Diagram 4: DR Centre Network Layout 
+Diagram 5: DC to DR overview including WAN connectivity 
+ 
+Backup Strategy 
+ (Note: The strategy chosen is at the discretion of the Kenya Power organisation based on assessed risks and 
+priorities).  
+ 
+Offsite data storage  
+Location xxxxxxx 
+Contact Person at location: xxxxx 
+Telephone contacts: xxxxxxxxxxx 
+ 
+ 
+Alert, escalation and plan invocation 
+Plan Triggering Events: 
+Key trigger issues at headquarters that would lead to activation of the DRP are:  
+1. Total loss of primary data centre/servers 
+2. Total loss of power for an extended period of time and subsequent failure of the power backup solution to work  
+3. An act of terrorism at the Kenya Power Stima Plaza premises or surrounding areas 
+4. Loss of access to the office building 
+ 
+Emergency Alert 
+When an incident occurs the Crisis Management Team (CMT) must be activated. The CMT will then decide the 
+extent to which the DR Plan must be invoked.  The CMT will consist of senior representatives from the main 
+business departments. The CMT Leader will be a senior member of the organisa tion's management team, and will 
+be responsible for taking overall charge of the process and ensuring that the organisation returns to normal 
+working operations as early as possible 
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 46 
+ 
+The Crisis Management Team (CMT) is responsible for activating the DR Pla n for incidents identified in this plan, 
+as well as in the event of any other occurrence that affects the organisation’s capability to perform normally.   
+ 
+The person discovering the incident calls a member of the CMT in the order listed:  
+• xxx 
+• xxx 
+ 
+If not available try: 
+• xxxx 
+• xxxx 
+ 
+Disaster Recovery Team 
+One of the tasks during the early stages of the emergency is to notify the Disaster Recovery Team (DRT) that an 
+emergency has occurred. The notification will request DRT members to assemble at an agreed location and will 
+involve sufficient information to have this request effectively communicated.  
+The Disaster Recovery team will assist in the entire disaster recovery operations. The team will co mprise of core 
+members from IT Division of Kenya Power with representation from the top management. The team will be 
+contacted and assembled by the CMT in the event of an incident.  
+ 
+Responsibility of the Disaster Recovery Team 
+1. Establish facilities for an emergency level of service within xx business hours;  
+2. Restore key services within xx business hours of the incident; 
+3. Recover to business as usual within xx to xx hours after the incident;  
+4. Coordinate activities with first responders, etc.  
+5. Report/Feedback to CMT. 
+6. Stand down recovery activities upon return to “business as usual environment” at the primary site  
+ 
+Damage Assessment 
+This is a key activity in a disaster recovery plan and should start soon after the incident has occurred to provide an 
+initial view of the situation; what has actually happened; what assets (e.g., buildings, people, IT systems) are 
+affected and which of them has been damaged as well as an evaluation of the possibility for the situation to 
+continue and possibly escalate. 
+Information gathered is then used by the Crisis Management Team to determine the likely next steps in the 
+incident, such as Building evacuation, Power Shut down Systems Shutdown or even the invocation of the Disaster 
+Recovery Plan. 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 47 
+ 
+DRP Exercising 
+Disaster recovery plan exercises are an essential part of the plan development process. In a DRP exercise, no one 
+passes or fails; everyone who participates learns from exercises – what needs to be improved, and how the 
+improvements can be implemented.  Plan exercising ensures that emergency teams are familiar with their 
+assignments and, more importantly, are confident in their capabilities.  
+Successful DR plans launch into action smoothly and effectively when they are needed. This will only happen if 
+everyone with a role to play in the plan has rehearsed the role one or more times.  The plan should also be validated 
+by simulating the circumstances within which it has to work and seeing what happens.  
+ 
+ 
+Sections to be included as annexure to the IT DRP has been included in the Appendix 1.21.  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 48 
+ 
+1.2 Exercising and testing 
+Exercising is essential to understanding roles, developing teamwork, competence, confidence and knowledge which 
+are vital at the time of a disruption. There is therefore the need for regular exercising and testing.  
+The following types of testing can be considered:  
+• Desk Check: Review and challenge the content of BCP and DRP with Kenya Power project team;  
+• Walkthrough: The BCCM team can verbally go through the plan(s) and discuss how they would respond to 
+an incident based on what has been documented in their plans. This allows the team to confirm the 
+effectiveness of their plan and identify gap(s). 
+• Table-top: The team can be presented with a pre-defined scenario and the participants role play with 
+simulated responses and act out the steps. This exercise can be targeted at CMT to help foster team interaction 
+and decision making. 
+• Simulation: The BCCM teams are required to carry out activities in a simulated environment under 
+conditions which would be prevalent in the event of an actual plan activation.  
+• Live exercise: The team execute their plans in a live environment during operational hours.  
+The objectives of the above-mentioned exercises are to: 
+1. Validate recovery procedures,  
+2. Familiarise Kenya Power Crisis Management Team members with their roles and responsibilities, and  
+3. To identify areas of the plans that may need revisions.   
+Note: It is important to recognise that Business Continuity Plans are working documents and need to be updated 
+on a regular basis, especially when changes in the organisation occur (e.g. new divisions, new processes, change in 
+personnel, etc.). This update will be regularly managed by the plan hol ders. 
+ 
+BCP testing is a critical exercise for the overall program success. Normally BCP testing takes place after the annual 
+plan review but before the final approval by CMT, so that testing verifies and corrects the most actual BCP version.  
+ 
+Initiating BCP test 
+First step the Business Continuity and Crisis Management Coordinator should do is to define and agree with CMT 
+the test scope, scenario and timing. It is suggested to test realistic scenarios which on the one hand will let checking 
+most critical restoration activities of each division and on the other require reasonable resources to perform. A 
+simple scenario can be a good starting point. More complex and more specific scenarios may be tested during 
+subsequent cycles. 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 49 
+ 
+Preparing BCP test protocol 
+BCP test protocol is the main document describing what and how needs to be done during the test. The following 
+critical information should be recorded in it: 
+1) Test scenario – which situation is going to be drilled. 
+2) Test participants (senior management, team members, staff, third-parties, etc.) 
+3) Test type (whether services restoration will only be simulated in parallel with standard running ones or the 
+normal office life will be interrupted during the test). 
+Note: We recommend starting with so-called checklist and walk-through tests – paper exercises where participants 
+sit together and review the list of proposed actions, and then move to the “parallel” testing – restore business 
+processes during the test in parallel with the normally running ones. It is not mandatory to go with full-interruption 
+tests since they may be quite painful for business. 
+4) Checklist – actual sequence of actions with associated action owners and time frames. When preparing this 
+section be realistic and practical – think what exactly will this and that division be doing in a real disaster 
+situation. Involve Divisional representatives to prepare their sections. 
+5) Restoration objectives – document how fast you expect services to be restored and how old data to get 
+recovered. This may be taken from the BC plan as well as calculated for particular scenario.  
+6) Further sections such as success and failure analysis as well as action plan are used after the test to document 
+the outcome. 
+The testing protocol document should be reviewed and conf irmed by all BCP team members (Divisional/ Regional 
+representatives) as well as the Business Continuity and Crisis Management Coordinator and CMT. This will give 
+formal approval for the test. 
+Conducting the BC test 
+Once the test scope, scenario and date are approved, and the testing protocol prepared, the BC test itself should be 
+conducted. 
+The duty of the Business Continuity and Crisis Management Coordinator is to make sure that all test participants 
+are familiar with the test plan and they know what they have to do. During the test, he/ she must coordinate teams 
+work and take notes of successes and failures of the plan steps execution. These notes should be recorded in the 
+testing protocol in front of respective steps for further analysis.  
+ 
+Finalise BCP testing protocol 
+After the test completion, the Business Continuity and Crisis Management Coordinator should analyse recorded 
+notes and summarize them in the success and failure analysis section. Then it makes sense to arrange a meeting 
+with key test participants, review test outcomes and collect additional feedback and notes. Also, it is necessary to 
+work out an action plan based on the lessons learnt. The action plan should be recorded in respective section of the 
+testing protocol as well. Once the testing protocol is finalized and all the test outcomes as well as supposed 
+corrective actions are recorded, the Business Continuity and Crisis Management Coordinator should sign the 
+protocol by himself and seek the approval and sign off of CMT.  
+Note: This is a must since the physically signed testing protocol is the best evidence for all types of the audits and 
+external clients’ inquiries. The electronic version of BCP document and the signed and scanned testing protocol 
+should be sent for archiving. BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 50 
+ 
+3. Check  
+3.1 Performance evaluation 
+3.1.1 Monitoring, measurement, analysis and evaluation  
+As part of this step, Kenya Power needs to determine: 
+1. What needs to be monitored and measured within its BCCM programme,  
+2. The different methods which would be used for monitoring, meas uring, analysing and evaluating, 
+3. The time at which the monitoring and measuring would be performed and  
+4. When the results from monitoring and measurement shall be analysed and evaluated.  
+ 
+3.1.2 Internal audit 
+The internal audit function of Kenya Power will undertake reviews at planned intervals to verify whether the BCCM 
+is conforming to the requirements of Kenya Power, and is effectively implemented and maintained.  
+ 
+3.1.3  Management review 
+Kenya Power management needs to review the BCCM programme, at planned int ervals, to ensure its continuing 
+suitability, adequacy and effectiveness. 
+Plan component  Frequency of review 
+BCCM policy Reviewed and updated every 6 months 
+BIA Reviewed and updated at least once a year and/ or when there are signification changes to 
+the business 
+BCP Reviewed and updated at least once a year, when there are significant changes to the 
+business and immediately after any exercise 
+Contact lists Reviewed and updated every 3 months 
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 51 
+ 
+4. Act  
+4.1 Non-conformity and corrective action 
+BCP correction 
+The last step to be performed is implementation of agreed corrective actions (according to the action plan 
+mentioned above) and respective adjustment of the BCP document. The Business Continuity and Crisis 
+Management Coordinator should manage these activities. Once completed, the updated BCP version should be 
+approved by CMT.  
+This is the last step after which another cycle of BCP review and testing will take place.  
+ 
+4.2 Continual improvement 
+Kenya Power will need to continually improve the suitability, adequacy or effectiveness of the BCCM. 
+Note: This can done through processes such as leadership, planning and performance evaluation.  
+ 
+Plan component  Frequency of review 
+BCCM policy Reviewed and updated every 6 months 
+BIA Reviewed and updated at least once a year and/ or when there are signification changes to 
+the business 
+BCP Reviewed and updated at least once a year, when there are significant changes to the 
+business and immediately after any exercise 
+Contact lists Reviewed and updated every 3 months 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 52 
+ 
+BCCM principles for Kenya Power 
+ Recovery Procedures shall be made available within all critical sections/ divisions in order to ensure 
+operational continuity in the event of a loss of service or disaster.  
+ Each critical section/ division shall assign responsibility for the development and maintenance of their 
+respective recovery procedures. 
+ Events that can cause potential disruptions shall be identified and a risk -based approach shall be adopted for 
+the development of the various BCP plans. 
+ The interruption risks shall be informed by the Enterprise Risk Management (ERM) to guide the 
+development of the business continuity and crisis management capability. The risk assessment process 
+shall assist Kenya Power in identifying critical operational processes and key IT systems and their 
+exposure to threats.  
+ The Business Impact Analysis (BIA) shall be conducted to evaluate the impact of a disruption of the 
+activities that support key services of Kenya Power. 
+ BCP and DR plans shall be included in the systems development life cycle for all systems and applications that 
+have been identified as critical, or that have a high availability requirement.  
+ BCP and DR plans for critical systems and applications shall be tested on an annual basis. 
+ Test results shall be provided to the information owner and/or information custodian, appropriate section/ 
+division, and made available to the auditing party during any compliance audit.  
+ Copies of all BCP and DR plans shall be stored off-site in a secure, fire-protected location that is easily 
+accessible. Adequate protection shall be applied to electronic versions of the plan s, with appropriate controls 
+applied restricting access only to authorised recovery team members of Kenya Power. 
+ An alternative site or other processing arrangements shall be readily available in which to recover business 
+critical IT operations in the event of a significant disaster or loss of service.  
+ All roles and responsibilities within the BCP and DR plans shall be explicitly defined and attributable to specific 
+individual(s). 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix 1- Templates 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 54 
+ 
+Appendix 1.1: Business Continuity Plan Template 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 55 
+ 
+Key concepts of the Business Continuity Plan 
+Purpose The Corporate Business Continuity Plan (BCP) of Kenya Power is primarily 
+designed to protect against the sudden loss of access to a facility or to systems 
+necessary to conduct business caused by disasters such as fire, contamination, 
+explosion, riots, sabotage, etc., and to minimise the impact if such an event does 
+occur. 
+The BCP has been documented with the purpose of enabling Kenya Power to 
+recover its mission-critical business processes immediately following a disaster. 
+There is limited time to plan for recovery in the immediate aftermath of a 
+disaster, hence the need to plan and document in advance. However, Kenya 
+Power management can discuss and prepare restoration strategy for less critical 
+business processes after the disaster.  
+If a facility is rendered inaccessible, it is expected that alternate work space for 
+critical business functions will be identified and that these functions will be 
+operational within 24 hours, in order to prevent a significant deterioration in 
+the ability to restore operations and service customers. This will include 
+planning for recovery of supporting networks, IT systems, people, records, and 
+supplies.   
+Alternate work space for less critical functions will follow. Temporary 
+discontinuance of less critical business functions is expected to result in loss of 
+efficiency during the first week given the focus in recovering critical business 
+functions.  
+Plan Objectives Note: Kenya Power should devise the objectives. The following has 
+been provided for guidance purposes. 
+The Business Continuity Plan's objectives are, in order of priority:  
+1. to protect the life and safety of all persons; 
+2. to minimise the impact on customer service; 
+3. to minimise the loss of corporate assets; 
+4. to establish priorities for, and allocate the use of, resources; 
+5. to resume critical business functions with minimal outage within the 24 
+hour recovery window; and 
+6. to return to normal operations as soon as possible. 
+Scope Note: We have provided the following for guidance purposes only. 
+This is to be customised after the completion of the BIA exercise.  
+The BCP covers all facilities and locations which house critical business 
+processes. A listing of the facilities in scope is provided below.  
+Sites identified as critical as they house critical business functions, people and IT 
+assets:  
+ National Control Centre BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 56 
+ 
+ Main data centre in Stima Plaza 
+ DR site, E-House 
+It is possible that just one listed facility of Kenya Power will be affected by a 
+disaster. Therefore, the plan is designed to be used in total, by facility, by specific 
+work groups, as the circumstances dictate. 
+Assumptions For plan development purposes, the following conditions are assumed:  
+ all facilities in an area will not be affected at the same time; 
+ qualified staff will be available to perform business functions; 
+ business operations will not be as efficient as during normal operations;  
+ alternate facilities will be available, and 
+ all unaffected facilities will be operating under normal business conditions 
+unless they become an alternate facility. 
+Plan Components There are three major components to the Business Continuity Plan:  
+ Emergency Response Plan (providing quick, effective and orderly response 
+immediately following a major business disruption and will include 
+evacuation and safety of staff, damage assessment and escalation to Crisis 
+Management Team)  
+ Crisis Management Plan (Organisation-wide capability grouping all senior 
+management to assist in responding effectively to a crisis situation during 
+and post crisis) 
+ Divisional or Regional Recovery Procedures (processing guidelines outlined 
+by each division or region for recovering and maintaining critical business 
+functions during and after a disaster recovery period) 
+This BCP should be used conjointly with the IT Disaster Recovery Plan, which 
+focuses on resumption of critical IT systems.  
+Crisis Management Team The Crisis Management Team (CMT) is the heart of the corporate response to a 
+disaster. It comprises of all General Managers and the Managing Director of 
+Kenya Power.  
+This team is responsible for directing, coordinating, monitoring, controlling, and 
+tracking the overall recovery operation, and for reporting recovery status to the 
+Ministry of Energy and Petroleum and Government of Kenya.   
+Human Resources Team Representatives of the Human Resources division serve on this team which is 
+responsible for: 
+ Notification of families of injured personnel 
+ Medical crisis management 
+ Trauma counselling 
+ Emergency employee communications BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 57 
+ 
+ Other miscellaneous human resources related issues  
+Security team This team focuses on loss reduction and protection of Kenya Power assets 
+(people and premises). In the time of crisis, the focus would be deploying extra 
+security (if required) for the damaged sites/ affected areas to ensure staff 
+security and protect Kenya Power premises- offices/ substations. This team may 
+work with local authorities and/ or contractors to deploy extra forces on the fiel d. 
+Transport/ fleet 
+management 
+This team would assist in the following: 
+ Transport: provide transport for rapid intervention (if required) 
+ Relocation to Alternate Site: manage logistics of relocating personnel to an 
+alternate site and ensure that the necessary furniture and equipment are 
+made available as detailed in the Recovery Procedures. 
+Supply chain  In the time of crisis, this team may need to assist in the following: 
+ Damage Assessment: evaluate the damaged site and account for all 
+inventory. 
+ Emergency procurement of materials (if any). 
+Network Management 
+Team  
+The focus of this team is to take necessary actions to remediate/ reduce any 
+power outage as quickly as possible. They need to ensure that power conveyance 
+is maintained at optimal levels (if possible) or acceptable levels during a crisis. 
+They need to maintain operations and management of the field areas, e.g. 
+substations and power grid. 
+Information Technology 
+Team  
+This team is composed of members of the IT division and is responsible for: 
+ Setup of working environment for Crisis Management Team: ensure that the 
+necessary workstations, LAN/WAN connections and equipment are setup for 
+use by the Crisis Management Team as detailed in this BCP. 
+ Recovery of all critical business applications and network connections 
+including verification of data integrity. 
+ Coordination of the systems recovery process. 
+ Arranging for the transportation and distribution of electronic data and IT 
+equipment to all users. 
+ Recovery and continuous operation of all critical hardware platforms. 
+ Planning and implementing the transition of systems operations from the 
+alternate site to the restored site. 
+Communications Team Representatives of the Corporate Communications section serve on this team, 
+which is responsible for: 
+ Development and dissemination of all external communication activities.  
+ Coordination of emergency employee communication activities with Human 
+Resources Department. BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 58 
+ 
+ Establishment of a media communications centre near the damage site.  
+Finance Team Representatives of the Finance section serve on this team and provide all 
+financial related support for response and recovery activities. Responsibilities 
+include: 
+ Ensuring timely issuance of payroll checks. 
+ Providing cash advances or salary advances where required. 
+ Implementing any necessary short term tracking controls. 
+ Liaise with risk- insurance for coordination of all insurance related issues. 
+Plan Distribution Copies of the current plans will be distributed to: 
+ Emergency Response Plan: All critical Kenya Power premises for 
+Emergency Response Team 
+ Crisis Management Plan: CMT  
+ Recovery Procedures: Respective divisions or regions 
+Distribution is based on the recovery responsibilities of the recipient, i.e. 
+individuals will receive the plans they need to support their efforts in restoring 
+the business functions of Kenya Power. 
+ 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 59 
+ 
+Appendix 1.2: Sample Notifications 
+Key messages to be communicated during crisis 
+A sample format for preliminary notification of the disaster to various stakeholders is given below: 
+Sample Format for Notification for Power Outage (sample provided by Corporate 
+Communications) 
+ 
+Press Release 
+Date  
+National power outage 
+At around xxxxx, the two transmission lines between the xxxxx geothermal load centre and xxxxx sub-station near 
+Nairobi tripped, while they were carrying xxxxx MW of electricity. 
+Subsequently, the national interconnected grid and generating system also tripped, causing a national power 
+outage.  
+Kenya Power engineers immediately commenced a ‘bl ackstart’ with electricity supplied from Uganda to Sondu 
+Miriu power station. By the time of issuing this statement, electricity supply to the national grid had commenced 
+with feeders in xxxxxx. 
+Kenya Power will issue a comprehensive statement once it esta blishes why the two transmission lines tripped. We 
+wish to apologise to our customers for the inconvenience and assure them that everything possible is being done to 
+restore power as quickly as possible.  
+ENDS……………………. 
+For more information, contact: 
+Kenya Power Corporate Communications Dept. 
+Tel. 3201622/39or/47   
+E-mail communications@kenyapower.co.ke 
+BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 60 
+ 
+Sample Format for Notification to Employees 
+“We have suffered a minor / moderate /catastrophic disaster due to ___________. 
+The extent of damage caused due to this incident is being assessed.  
+The Crisis Operations Team is doing its best to resume normal operations at the earliest and with minimum 
+damage to employees and the business. 
+Further notification about developments in the wake of this incident, will be communicated through ________ 
+(Media). 
+Employees are requested not to discuss this incident with people outside Kenya Power.  
+For further information, please contact ‐ (Name)______ at (Tel) ______.” 
+ 
+Notification of Disaster to Banks, other institutions, general public and other stakeholders  
+The CMT leader will notify the stakeholders of the disaster preferably by phone.  
+A sample format for preliminary notification of Disaster is given below:  
+Sample Format for Notification to Stakeholders 
+“We have suffered a minor / moderate /catastrophic disaster due to ___________.  
+The extent of damage caused due to this incident is being assessed.  
+Kenya Power team is doing its best to resume normal operations at the earliest. We will keep you informed of any 
+developments in the wake of this disaster.” 
+ 
+Sample Format for Notification to Media 
+Kenya Power operations have been disrupted due to a <fire, power outage, etc.>. The office building/ substation 
+<specify location> has experienced some damage. Company officials, along with the different authorities are 
+evaluating the extent of the damage and the probable cause. The business recovery plan of Kenya Power has been 
+activated and is progressing according to schedule. Additional information will be provided when details are 
+available….” 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 61 
+ 
+Appendix 1.3: Crisis Management Team Meeting Agenda 
+During an initial briefing about the crisis, the following specific agenda items will be reviewed:  
+1. Situation report: 
+a) What appears to have happened? 
+b) Confirmed facts (when, immediate known consequences, likely consequences).  
+c) Scope of proposed situation. 
+2. Initial response status: 
+a) What is being done, why, by whom? 
+b) Likely implementation time and expected results. 
+3. Initial communications status: 
+a) Assess who needs to know immediately and later on? 
+b) Alert the operator 
+4. Short‐term response requirements: 
+a) Delegate crisis communications responsibility. 
+b) What must be done in the next several hours and how? 
+c) What human and material resources are available or needed?  
+5. Short‐term communication process: 
+a) Staff, families, stakeholders, etc. 
+6. Next meeting time. 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 62 
+ 
+Appendix 1.4: INITIAL INCIDENT RESPONSE CHECKLIST 
+Business disruption event (“incident”) occurs.  
+First person to observe the event at Kenya Power notifies the Emergency Coordinator (“EC”) and 
+the Damage Assessment Team (“DAT”) and/or the security guard of the premises impacted.  
+The DAT assembles, investigates the incident using the DAT checklist, and determines if the 
+Emergency Response Team (“ERT”) needs to be activated.  
+If needed, the DAT will notify and activate the ERT. The ERT designates a point of contact which is 
+the Liaison Officer (“LO”) for the incident. 
+The EC determines if the situation requires that the LO informs CMT, based on inputs from the 
+DAT and ERT. If it is necessary, the DAT through the LO also notifies public authorities such as 
+police, ambulance, etc.  
+ 
+If life and safety are at immediate risk, the EC and his/her staff should act first to ensure their own 
+survival as well as the survival of all staff and then communicate when feasible .   
+Assuming the situation warrants escalation, the EC & ERT review the situation and provide info to 
+Crisis Management Team (“CMT”) to determine whether to initiate the disaster declaration 
+process. 
+ 
+If a disaster is declared, the ERT  
+1. Activates the Crisis Management Team and Command Centre 
+2. Launches Evacuation Procedures 
+ 
+All Kenya Power employees are notified of the incident and of operational status.  
+The emergency response and crisis management plan continue until the incident has been 
+resolved.  
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 63 
+ 
+Appendix 1.5: EMERGENCY RESPONSE TEAM TASK CHECKLIST 
+Conduct an initial assessment of the incident’s likely impact on Kenya Power operations; 
+coordinate with DAT.  
+Gather information about the incident from first-hand contact, available first responders, 
+employees and others (for e.g. Authorities, etc.); relays to Emergency Coordinator.  
+  R isk 
+Account for all employees and other people on premises.  
+Administer first aid and/or ensure life/safety measures as appropriate.   
+Inform building security and the property management firm (if any) if they are not already aware of 
+the incident.   
+Inform the EC as soon as possible.  
+Assist the LO to disseminate information to Kenya Power employees on the incident and also keep 
+them updated on the incident.  
+Assist the LO to provide information about the incident to first responder organisations (For e.g. 
+Ambulance, Fire Brigade, Police, Property Management Firm, etc.).   
+Assist the LO to establish and maintain communications with the specific business unit.   
+Provide input as directed to the disaster declaration process.  
+If disaster is declared, support the Emergency Response Plan.   
+If a disaster is not declared, support recovery from the incident and restore operations accordingly.   
+Support the EC to activate Command Centre and invoke the CMT.  
+Provide ongoing review and analysis of incident(s) with dissemination of information (assisting the 
+LO/PIO) to staff and relevant stakeholders as needed.  
+Coordinate with CMT, PTL, LTL as well as third-party organisations to ensure that required 
+resources are in place and ready for delivery to affected venue and/or DR Site/Command Centre.   
+Support PIO, SO and LO roles.  
+Support management of the incident and restores operations accordingly.  
+Support post-event demobilization plan/Restoration of Operations as needed.   
+Assist EC as directed.  
+Provide post-event report of activities.  
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 64 
+ 
+Appendix 1.6: EMERGENCY RESPONSE TEAM MEETING 
+CHECKLIST  
+Contact EC to ensure that the ERT has set an initial meeting and venue. Ensure that the presence of 
+ERT members is recorded using an Attendance Sheet (as provided in Appendix).  
+Ensure that any missing ERT members, their alternates and any additional personnel are notified 
+of the meeting. 
+Refer to list of members of ERT, as well as key contact details in appendix for a complete list of 
+ERT members and alternates and their contact information.  
+ 
+Obtain a current situation report from the ERT and DAT.  
+Address the following key issues: 
+1. Type of event (fire, tornado, terrorism, power outage, telco outage, etc.)  
+2. Specific location of event, if known (building, floor, side of floor, etc.)  
+3. Magnitude of the event 
+4. Time of event 
+5. Suspected cause 
+6. Emergency/evacuation procedures status 
+7. Police and fire departments notified  
+8. Injuries and fatalities 
+9. Building access status (current access, near-term potential access) 
+10. Immediate impact to business operations 
+11. Potential for news media attention 
+ 
+Establish schedule of updates for EC to monitor Evacuation procedures and also ongoing response 
+to the incident. Commence providing EC updates.  
+Ensure that a member of the ERT documents, in chronological order, incident milestones and 
+actions taken using the appendix: business interruption template. This form will be used as a tool 
+to update the ERT and/or EC and CMT. 
+ 
+If required, provide advice to management whether employees should be sent home. The LO will 
+develop a statement, determine method of communicating updates and communicate to employees 
+after approval of Management. 
+ 
+Follow up to ensure that the organisation’s phone lines are re-directed to the pre-assigned mobile 
+phone and/or DR Site.  
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 65 
+ 
+Appendix 1.7: EMERGENCY COORDINATOR TASK CHECKLIST 
+Assumes overall leadership of all incident response activities.   
+Receives information about the incident from ERT, DAT, first responders, employees and others; 
+contacts the DAT (in the event the DAT has not yet been contacted).   
+Leads the launch of the LO.  
+Delegates the accounting for of all staff/guests on (and if applicable off) premises to the ERT.   
+Ensures that first aid is being provided- ensure that life/safety measures are being delivered by the 
+ERT.  
+Informs CMT of situation as soon as possible.   
+In coordination with DAT, assesses the incident’s likely impact on Kenya Power operations.   
+If assessment of the incident suggests a serious event that could adversely impact operations, 
+advises management as soon as possible.  
+Provides input as directed to the disaster declaration process.  
+Based on input from ERT and DAT, determines if/when to declare a disaster together with the 
+CMT.  
+If a disaster is declared, facilitates activation of Emergency Response Plan, informs the ERT and 
+other BCCM team members, launches call notification (assisted by the LO and  PIO)by using 
+contact details provided in appendix.   
+ 
+If a disaster is not declared, manages recovery from the incident and restore operations 
+accordingly.  
+Leads the activation of the CMT; assumes role of EC.  
+Leads the launch of PIO and SO.   
+Ensures that PIO/LO establishes regularly updated communications with EC and other units as 
+needed.  
+Manages the incident and restores operations accordingly.  
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 66 
+ 
+Appendix 1.8: EMERGENCY RESPONSE RECOMMENDATIONS 
+The EC will develop recommendations for management on what overall response strategies should 
+be implemented to facilitate the recovery of business operations in the most timely, efficient and 
+cost-effective manner. 
+ 
+Consider information gathered in earlier incident and damage assessments including, but not 
+limited to, the following: 
+ The area(s) affected by the disaster; 
+ Anticipated duration of incident; 
+ Availability of required employees; 
+ Any special timing issues such as relationship to month-end, quarter-end, etc.; 
+ Any special business issues (e.g. unusual business volume or backlog, unusual contractual 
+obligations); 
+ Regulatory obligations; 
+ Salvageable equipment and supplies; 
+ Availability of equipment and supplies at potential alternate or off -site locations; 
+ Salvageable records required for recovery activities and 
+ Records which require intensive reconstruction activities. 
+ 
+Develop critical business function recovery priority lists for the following periods:  
+ 4 hours 
+ 8 hours 
+ 12 hours 
+ 24 hours or longer 
+ 
+Recommend to the management the location(s) where critical business functions and IT operations 
+can be recovered based upon the following priority:  
+ Return to building 
+ DR site 
+ Other sites (if applicable) 
+ 
+ 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 67 
+ 
+Appendix 1.9: ACTIONS FOLLOWING A DISASTER DECLARATION 
+Based on responses from the ERT, DAT and input from management and authorities, EC will 
+launch an incident response plan that facilitates a safe and rapid evacuation of staff and locates the 
+safest venue to activate CMT. 
+Evacuation procedures of Kenya Power as appended to this plan will be followed. 
+ 
+If not already identified, the EC should identify and communicate the recommended assembly 
+site(s) to ERT members, CMT and the Divisional/ Regional Recovery Teams.  
+Ensure that the ERT convenes a meeting to review response and recovery options, CMT setup 
+procedures, and other related activities, as specified in the Emergency Response Plan.   
+Relay the current situation report from the ERT.  
+General points to be covered include the following: 
+1. Type of event (fire, tornado, terrorism, power outage, telecomm outage, etc.)  
+2. Specific location of event, if known (building, floor, side of floor, etc.) 
+3. Magnitude of the event 
+4. Time of event 
+5. Suspected cause 
+6. Emergency/evacuation procedures status 
+7. Police and fire departments notified 
+8. Injuries and fatalities 
+9. Building access (current access, near-term potential access) 
+10. Immediate impact to business operations 
+11. Potential for media (e.g. television, radio) attention 
+ 
+Establish a schedule together with the LO for updates to CMT.  
+Assign an ERT member responsibility to document, in chronological order, incident milestones and 
+actions taken using the template in the appendix. This form will be used as a tool to report to CMT.  
+Provide input to the CMT whether employees should be sent home.  
+The CMT will develop a statement, determine method of communication for further updates and 
+communicate to employees, e.g. sending a text message or other approved service. 
+ 
+The EC together with CMT will decide whether or not to re -direct the organisation’s phone lines to 
+a pre-assigned mobile phone and/or DR Site.  
+Assist with acquisition of resources as needed.  
+Provide regular incident updates to ERT members and LO/PIO.   
+Establish communications process/ timeline together with the PIO and LO.   
+Coordinate phone calls, conference calls.  
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 68 
+ 
+Appendix 1.10: PUBLIC INFORMATION OFFICER TASK CHECKLIST 
+When activated, establishes communications with organizations as indicated in Emergency 
+Response Plan, e.g. Emergency Coordinator, ERT, CMT, etc.  
+Establish regular time frames for reporting incident and recovery status to designated 
+organisations.  
+Process incoming messages from and external organi sations, including police/ fire brigade and the 
+media.  
+Coordinate activities with Liaison Officer.  
+Distribute approved messages to designated parties when directed.   
+Assist ERT and Emergency Coordinator as directed.  
+Provide post-event report of activities.  
+ 
+Appendix 1.11: LIAISON OFFICER TASK CHECKLIST 
+When activated, interface with any/all third parties as appropriate, e.g. police, fire, government 
+agencies.   
+Disseminate information and messages to appropriate departments and individuals.   
+Coordinate activities with PIO.  
+Assist Emergency Coordinator as directed.  
+Provide post-event report of activities.  
+ 
+Appendix 1.12: SAFETY OFFICER TASK CHECKLIST 
+When activated, monitor and manages physical safety conditions.   
+Develop measures to ensure safety of personnel.  
+Assist in the administering of first aid and/or ensure life/safety measures as needed.   
+Monitor CMT personnel for stress, and any medical attention required.   
+Assist Emergency Coordinator as directed.   
+Provide post-event report of activities.   
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 69 
+ 
+Appendix 1.13: PLANNING TEAM LEADER TASK CHECKLIST 
+When activated, prepare Emergency Action Plan.   
+Maintain situation and resource status.  
+Coordinate BCCM activities.   
+Coordinate the preparation and dissemination of incident documentation.   
+Provide location for subject matter and technical expertise.  
+Prepare demobilization plan as needed.   
+Assist Emergency Coordinator as directed.  
+Assist in disseminating information and messages to appropriate departments  and individuals.  
+Provide post-event report of activities.  
+ 
+Appendix 1.14: LOGISTICS TEAM LEADER TASK CHECKLIST 
+When activated, organise and coordinates the provision of services (HR, communications, medical, 
+food, transportation and housing) and support (supplies, facilities and ground support) to the 
+incident. 
+ 
+Assist in disseminating information and messages to appropriate departments and individuals.   
+Assist Emergency Coordinator as directed.  
+Provide post-event report of activities.  
+ 
+Appendix 1.15: OPERATIONS TEAM LEADER TASK CHECKLIST   
+When activated, direct and coordinates all tactical operations associated with the incident.   
+Assist in disseminating information and messages to appropriate departments and individuals.   
+Assist Emergency Coordinator as directed.   
+Provide post-event report of activities.  
+ 
+Appendix 1.16: FINANCE TEAM LEADER TASK CHECKLIST 
+When activated, facilitate various administration and financial activities.   
+Monitor incident costs and maintains financial records.  
+Address insurance and workmen’s compensation issues.  
+Facilitate procurement activities, e.g., contracts.  
+Monitor timekeeping and related activities.  
+Disseminate information and messages to appropriate divisions and individuals.   BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 70 
+ 
+Assist Emergency Coordinator as directed.  
+Provide estimates of expenses that will be incurred for rebuilding the primary site to the CMT   
+Provide post-event report of activities.  
+ 
+Appendix 1.17: Annexure for ERP 
+Annexure 1: Emergency Action Plan 
+ Date/Time:  
+Emergency name:  
+Expected duration: (If 
+known) 
+ 
+Completed by:  
+Objectives/strategies to be completed in the first 3 hours:   
+Objectives/Strategies Responsibilities 
+assigned to 
+Assigned 
+Date/Time Status Completed 
+Date/Time 
+     
+     
+     
+     
+Objectives/strategies to be completed in the first 8 hours:   
+Objectives/Strategies Responsibilities 
+assigned to 
+Assigned 
+Date/Time Status Completed 
+Date/Time 
+     
+     
+     
+     
+Objectives/strategies to be completed in the first 15 hours:   
+Objectives/Strategies Responsibilities 
+assigned to 
+Assigned 
+Date/Time Status Completed 
+Date/Time 
+     
+     
+     
+     
+Objectives/strategies to be completed in the first 24 hours & after:   BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 71 
+ 
+Objectives/Strategies Responsibilities 
+assigned to 
+Assigned 
+Date/Time Status Completed 
+Date/Time 
+     
+     
+     
+     
+ 
+Annexure 2: Emergency Evacuation Procedures 
+Evacuation should be done immediately, in case an emergency calls for it.  
+General pre‐events to be considered: 
+1. Prepare “EXIT MAPS” indicating route from workstation to exit door and put them in a prominent location 
+at each floor of the building. Make sure that routes are free of obstructions.  
+2. “EXIT” must be clearly marked and easily accessible, with emergency lighting where appropriate.  
+3. Appoint two or more fire marshals for each floor of the building to facilitate evacuation. He/ She must be 
+someone: 
+a. Who is in the office most of the time (whenever the office is open or in use),  
+b. Who is level headed with steady nerves in an emergency and  
+c. Who knows the names and faces of most or all the employees in the office?  
+4. Designate a place outside the building where all employees and visitors are required to gather in case of 
+emergency evacuation. 
+5. Conduct periodic evacuation drills for effectiveness. 
+ 
+Emergency steps when the alarm sounds: 
+The Emergency Response Team will: 
+1. Communicate the emergency situation to the Business Continuity & Crisis Management Coordinator.  
+2. Liaise with outside agencies such as  
+ Fire Brigade & Rescue:  
+ Police:  
+ Hospital:  
+3. Direct all media related queries to the Crisis Communication Spokesperson.  
+4. Maintain continuous communication with the Business Continuity & Crisis Management Coordinator and 
+fire marshals. Arrange for the required medical facilities and emergency transport ation. 
+5. Assume all command and responsibilities for bringing the event under control.  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 72 
+ 
+6. Go to the alarm panel room immediately. Note the area of alarm. Dispatch the on duty security personnel 
+to the area of alarm and monitor the situation. 
+7. Decide whether evacuation is necessary. Set the fire alarm for the second time indicating the staff to 
+evacuate the building.  
+8. Declare the emergency situation to all employees with complete and clear information.  
+9. Inform fire marshals to initiate evacuation procedures. 
+10. Guide all employees to evacuate the building. 
+11. Call fire marshals at the assembly point. 
+12. Perform headcount and check with each fire marshal to make sure everyone is out.  
+13. Give “ALL CLEAR” signal to employee after the incident has been averted.  
+ 
+The fire marshals will: 
+1. Take charge of the evacuation. 
+2. Each fire marshal will see to it that a clear path to “FIRE EXITS” is maintained and the exits are clearly 
+marked, and that personnel are familiar with the exits and the evacuation procedure.  
+3. Direct the employees, consultants, visitors (all present in office premises) towards exit staircases.  
+4. Make a quick check of all office spaces, restrooms, etc. to make certain that all personnel are out. Ensure no 
+one is missed out in the evacuation. 
+5. During evacuation, give preference to physically challenged people (if any). 
+6. Instruct all to meet at the assembly point and take a headcount. 
+7. Make sure that everyone is out of the office space and accounted for to the ERT during the headcount.  
+8. If somebody is missing, immediately inform the authorities present onsite. 
+9. Look into first aid and damage solutions if required. 
+ 
+User Guidelines during evacuation 
+What to do when one hears the evacuation announcement: 
+After the first sounding, a security personnel will go to the fire area as designated on the fire panel to investigate. 
+If the security personnel discovers a fire (which has got out of control), he will inform his colleague via the radio to 
+press the evacuation button which sounds the alarm on a permanent basis and all persons in  the building should 
+evacuate the building in an orderly manner under the instructions of the wardens.  
+1. Upon hearing the first alarm, prepare yourself to exit the building.  
+2. Upon hearing the second alarm, you shall proceed to the fire escape staircase on the respective floors upon 
+receiving instructions from the fire marshals. 
+3. Evacuate via the fire escape stairs unless otherwise advised by the fire marshals. BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 73 
+ 
+4. Proceed carefully to assembly point at the ground floor. (Each building should provide exact details of assembly 
+point and label them in advance). 
+ 
+Assembly area 
+In case of an emergency where evacuation is termed necessary, all the people (employees, consultants, visitors, etc.) 
+should gather at the “assembly point” which is an identified point outside the premises of Kenya Power. The 
+assembly point will be …………………… unless specified otherwise during evacuation. 
+ 
+User guidelines during evacuation for people with special needs 
+Being responsible for oneself is easy but the going can get tough for those with special needs. It is advisable to have 
+members in the office, designated to one or more challenged person and take complete responsibility of her/him 
+and self. 
+ Evacuating people with special needs 
+ Have a list of people with special needs, locate them and guide them 
+ For the hearing impaired make a special notification 
+ Have special evacuation devices to bring down the physically challenged  
+On hearing the alarm 
+ Designated special aides shall move towards the physically challenged persons and assist them in moving 
+towards the safe assembly point. 
+ If need be, fire marshals and aides can use special devices/ chairs/ stretchers. 
+The security guard will: 
+1. Ensure that the main gates of the building are open. 
+2. Patrol the ground level of the building to give directions to emergency personnel and to be aware of anyone 
+removing any physical property from the building. 
+3. Not allow any visitor to enter the premises. 
+4. Only allow personnel required during the emergency, fire -fighting staff of the fire brigade and police 
+assistance. 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 74 
+ 
+Appendix 1.18: Resumption-Back-To-Normal Checklist 
+Sr. 
+No 
+Activity/ Task Responsibility 
+1 Provide estimates of expenses that will be incurred for rebuilding the 
+primary site to the CMT. 
+DAT 
+2 Determine the feasibility of returning to the original site. DAT 
+3 Update the CMT about the status of the primary site. DAT/ ERT 
+4 If the affected premises cannot be recovered or it will not become 
+habitable within an acceptable time, make arrangement plan for a 
+long‐term recovery option. 
+Otherwise, authorize reconstruction and refit of affected premises.  
+In case the primary site is not in a condition to be resumed back to 
+normalcy, consider to continue operations from the DR site. In such a 
+situation, the DR site will operate as the main site and another office 
+should be prepared as the DR site or a new office site could be 
+considered. 
+CMT 
+5 Receive instructions from the CMT whether operations should 
+continue at the DR Site or at an alternate permanent location 
+Recovery/ Resumption Team 
+6 Liaise with the CMT and Recovery/Resumption Team on proposed 
+refurbished site lay out. 
+DAT 
+ 
+Appendix 1.18: Repairs at the primary site checklist  
+Sr. No Activity/ Task Responsibility 
+1 Arrange for the insurance claim and reconstruction activities. CMT 
+2 Hire and supervise the contractors to repair the damaged site.  DAT 
+3 Obtain required building permits such as building safety and 
+occupation permits. 
+DAT 
+4 Review the inventory of damaged equipment for types, model, and 
+quantity as defined in the damage assessment form and place 
+orders to replace equipment. 
+DAT (in consultation with 
+CMT) 
+5 Receive and inspect ordered equipment. DAT 
+6 Install power and LAN Cables, phone lines and furniture. Respective third party vendors 
+7 Review network diagram and ensure proper location and 
+connectivity of LAN infrastructure equipment such as servers and 
+routers. 
+Recovery/Resumption Team BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 75 
+ 
+8 Install the critical IT systems. Recovery/Resumption Team 
+9 Restore the data from tapes onto the servers. Recovery/Resumption Team 
+10 Restore security systems including firewalls. Recovery/Resumption Team 
+ 
+Appendix 1.19: Relocation to the Primary Site Checklist 
+Sr. 
+No 
+Activity/ Tasks Responsibility 
+1 Determine the time frame for transition. CMT 
+2 Notify team of transition schedule and tasks. BCCM Coordinator 
+3 Freeze production environment at the DR site. CMT 
+4 Prepare shipments of vital records and documents to the primary 
+site of Kenya Power. 
+Recovery/Resumption Team 
+5 Transfer team, data backups and vital records from the primary site. Recovery/Resumption Team 
+6 Restore IT systems, applications and data at the primary site. Recovery/Resumption Team 
+7 Verify IT environment such as network, application, data etc. Recovery/Resumption Team 
+8 Redirect voice and data network to the primary site. Recovery/Resumption Team 
+9 Resume normal operations. Recovery/Resumption Team 
+10 Initiate normal backup procedures. Recovery/Resumption Team 
+11 Destroy confidential data residing on the desktops at the DR 
+facilities. 
+Recovery/Resumption Team 
+12 Remove/ discard confidential documents remaining at the DR site 
+facilities. 
+Recovery/Resumption Team 
+13 Hold post‐incident review meeting and obtain written report from 
+each Recovery Team. 
+CMT 
+14 Compile and submit insurance claims. CMT 
+15 Update the respective plans. Plan owners 
+ 
+ 
+ 
+ 
+ 
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 76 
+ 
+Appendix 1.20: Annexure for recovery teams procedures 
+Annexure 1: Emergency Response Team members for each site 
+Each of the following areas will have a primary and alternate member. The ERT members will have to be 
+determined for each critical site.  
+Emergency 
+Response 
+Team  
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team  
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 77 
+ 
+Team Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+Emergency 
+Response 
+Team 
+ Name Title Office No Home No Mobile 
+No 
+Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-
+kin 
+       
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 78 
+ 
+The following roles will have to be determined for each critical site.   
+Emergency Coordinator 
+Emergency 
+Coordinator 
+ Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+Public Information Officer 
+Public 
+Information 
+Officer 
+ 
+ Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+Liaison Officer 
+Liaison 
+Officer 
+ Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+Safety Officer 
+Safety Officer  Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 79 
+ 
+Planning Team Leader 
+Planning 
+Team Leader 
+ Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+Damage Assessment Team members 
+Each of the following areas will have a primary and alternate member. The DAT members will have to be 
+determined for each critical site.  
+DAT  Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+DAT  Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+DAT  Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+DAT  Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+DAT  Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+DAT  Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 80 
+ 
+Logistics Team Leader 
+Logistics 
+Team Leader 
+ Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+Operations Team Leader 
+Operations 
+Team Leader 
+ Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+Finance Team Leader 
+Finance 
+Team Leader 
+ Name Title Office No Home No Mobile No Alternate 
+No 
+Email 
+Main        
+Alt        
+Next-to-kin        
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 81 
+ 
+Annexure 2: Contact details for all key stakeholders 
+The contact details for all key stakeholders (including law local authorities, government officials, and suppliers) are 
+detailed below: 
+Sr. 
+No 
+Name Title Office 
+Number 
+Home 
+Number 
+Mobile 
+Number 
+Alternate 
+Number 
+Email 
+1        
+2        
+3        
+4        
+5        
+6        
+7        
+8        
+9        
+10        
+11        
+12        
+12        
+13        
+ 
+ BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 82 
+ 
+Appendix 1.21: Annexure to DRP 
+Annexure A: Contacts & their Responsibilities 
+Emergency Response Contacts 
+Name Title Contact 
+Details 
+Responsibilities 
+  Work  
+  Mobile  
+  Email Address  
+ 
+ 
+Key Kenya Power Personnel Contact Information (Primary Site- Stima Plaza) 
+ 
+Name Title Contact 
+Details 
+Responsibilities 
+  Work  
+  Mobile  
+  Email Address  
+ 
+Key Kenya Power Personnel Contact Information (Secondary Site-xxxx) 
+Name Title Contact 
+Details 
+Responsibilities 
+  Work  
+  Mobile  
+  Email Address  
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 83 
+ 
+Kenya Power Key Personnel Notification Calling Tree 
+ 
+This is a communication chain for notifying specific individuals of an event. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Person 
+Identifying 
+Incident 
+Primary Site 
+Contacts 
+Informed 
+Secondary Site 
+Contacts 
+Informed  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 84 
+ 
+External Contacts (Service Providers e.g. Technology Associates) 
+ 
+Name Title/Company Service Provided Contact Details Responsibilities 
+   Work  
+   Mobile  
+   Email Address  
+ 
+ 
+External Contacts Calling Tree 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recovery Scenario 1: Total Data Centre Loss- Failover & Failback procedures 
+ 
+Recover Scenario 2: Loss of a critical system or component 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix 2- 
+Considerations for 
+building resilience in 
+people  
+  BCCM Framework  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 86 
+ 
+Building resilience in your people 
+Recommendations on ways of building capacity on critical functions within Kenya Power  
+People- key asset for Kenya Power 
+The key mandate of Kenya Power is to plan for sufficient electricity generation and transmission capacity to meet 
+demand; building and maintaining the power distribution and transmission network and retailing of electricity to 
+its customers.  
+Kenya Power understands the need for the right people within its teams across the divisions to get the 
+extraordinary done.  
+The business impact analysis (BIA) exercise that would be undertaken when the business continuity and crisis 
+management (BCCM) programme of Kenya Power is rolled out, would provide more insight into the critical people, 
+skills and/ or teams (Talent) in the organisation. 
+Recommendations to improve resiliency in critical skills 
+We are providing within this document some recommendations for m aintaining core skills and knowledge; and 
+building capacity on critical functions for the consideration of Kenya Power.  
+This would help Kenya Power make sure it has the people and skills necessary, now and in the future, to achieve its 
+business strategy. 
+Some recommendations to protect and/ or build capacity on the critical skills include:  
+1 
+The need for updated documentation 
+It is recommended that critical functions identified within the different divisions are required to 
+establish clear documentation of the way in which critical activities are performed (where feasible). 
+They should also put down lessons learnt, along with actions taken for past unusual situations/ 
+incidents in Kenya Power. 
+2 
+Re-inforce workforce planning 
+There is the need for Kenya Power to assess pivotal roles and key skills, undertake forecasting and 
+demand modelling to create and sustain an effective organisation.  
+Kenya Power may consider preparing a formal talent pipeline for the identified critical fu nctions. This 
+will help Kenya Power understand whether it has the people with the right skills, the right knowledge 
+and the right experience in the right places; now and over the next 3 to 5 years?  
+This is to be updated on a regular basis with findings from internal and external analysis. 
+3 
+Talent Acquisition 
+Kenya Power needs to establish a sourcing strategy reflecting on the improvement of its talent pool 
+across the various divisions, the selection criteria and processes, the employer brand of Kenya Power 
+in the market place and its onboarding programmes. 
+Kenya Power may consider the following: 
+• Engage university recruitment champions and university teams to hunt for talent to serve 
+Kenya Power; 
+• Plan, arrange and attend campus recruitment events and presentations at target universities/ 
+institutes (e.g. Institute of Kenya Power);  
+Kenya Power BCCM Framework             
+PwC Strictly private and confidential 87 
+ 
+ 4 
+Learning & Development  
+Kenya Power needs to develop a formal learning and development framework to assess, monitor and 
+enhance skills and capability in critical functions across the different divisions.  
+There is the need to understand knowledge/ skills gap within the critical functions and subsequently 
+establish formal coaching and mentoring programmes across Kenya Power to continuously enrich the 
+identified talent. 
+Few examples of methods to accelerate development of talent are as follows: 
+• Customised in-house training based on gaps identified; 
+• Attending interactive workshops, seminars and technical training sessions (e.g. those 
+delivered by Global Sustainable Electricity Partnership); 
+• Actively creating on the job learning opportunities (this includes but is not limited to day -to-
+day coaching and feedback; work shadowing and mentoring; and proactively shaping roles to 
+provide experience relevant to team members’ long-term career development). 
+5 
+Collaboration & Knowledge Management  
+Kenya Power management needs to support collaboration and knowledge management. There is the 
+need to manage and transfer knowledge within critical functions. Management needs to provide for 
+approaches and tools for collaboration amongst the Kenya Power workforce. 
+6 
+Succession Planning  
+Kenya Power needs to set formal career pathing for its employees. Succession and leadership plans 
+need to be developed for the identified critical functions. Furthermore, job rotation programmes 
+should be established to ensure a sustained source of pivotal talent and leadership (where feasible).  
+    
+© 2016 PricewaterhouseCoopers Limited (“PwC”). All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers in Kenya, 
+which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity and 
+does not act as an agent of PwCIL. 
+ 
+Limitation on 
+Report Distribution 
+This report has been prepared solely 
+for your internal benefit and use. This 
+report should not, without our prior 
+written consent, be made available to 
+any other third parties. Except where 
+we have agreed expressly in writing to 
+the contrary, PwC accepts no duty of 
+care, no liability and no responsibility 
+to any third party who benefits from or 
+uses the Services or gains access to this 
+report.  Any oral or draft reports which 
+we provide, do not constitute our 
+definitive findings and 
+recommendations. These are contained 
+solely in our final written report, which 
+shall be expressed as such.  
