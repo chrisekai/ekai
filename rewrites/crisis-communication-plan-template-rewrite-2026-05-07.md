@@ -17,7 +17,7 @@ meta_description: "Crisis communication plan template with pre-drafted holding s
 
 # Crisis Communication Plan Template (2026): Before, During, and After a Disruption
 
-A crisis communication plan is a documented framework that defines how an organisation communicates with internal and external stakeholders before, during, and after a disruptive event. The strongest plans pre-draft holding statements for the most likely scenarios, fix an escalation matrix and approval chain, map every stakeholder to a primary and backup channel, and tie disclosure timing to the regulatory regimes the organisation actually operates under (SEC, state breach laws, sector regulators, ISO 22301).
+A crisis communication plan is a documented framework that defines how an organization communicates with internal and external stakeholders before, during, and after a disruptive event. The strongest plans pre-draft holding statements for the most likely scenarios, fix an escalation matrix and approval chain, map every stakeholder to a primary and backup channel, and tie disclosure timing to the regulatory regimes the organization actually operates under (SEC, state breach laws, sector regulators, ISO 22301).
 
 > **Key takeaways**
 > - Issue an initial holding statement within 30 to 60 minutes of a crisis becoming known. Speed beats precision.
@@ -38,9 +38,9 @@ This guide gives you a complete, fill-in crisis communication plan template stru
 
 ## What Is a Crisis Communication Plan?
 
-A crisis communication plan is a documented framework that defines how an organisation communicates with internal and external stakeholders before, during, and after a disruptive event. It sits within your broader business continuity management system (BCMS) and crisis management plan, but focuses specifically on the messaging, channels, approvals, and timing of communications rather than operational recovery procedures.
+A crisis communication plan is a documented framework that defines how an organization communicates with internal and external stakeholders before, during, and after a disruptive event. It sits within your broader [business continuity management system (BCMS)](https://riskpublishing.com/business-continuity-management-system-iso-223012019-business-continuity-management-systems/) and crisis management plan, but focuses specifically on the messaging, channels, approvals, and timing of communications rather than operational recovery procedures.
 
-The Federal Emergency Management Agency (FEMA) describes a crisis communications plan as a strategic blueprint for addressing emergencies, including the tools, processes, and protocols an organisation uses to communicate during a crisis. ISO 22301:2019 Clause 8.4 requires organisations to establish communication procedures that address when to communicate, what to communicate, with whom to communicate, and the means of communication.
+The Federal Emergency Management Agency (FEMA) describes a crisis communications plan as a strategic blueprint for addressing emergencies, including the tools, processes, and protocols an organization uses to communicate during a crisis. [ISO 22301:2019 Clause 8.4](https://riskpublishing.com/business-continuity-management-system-iso-223012019-business-continuity-management-systems/) requires organizations to establish communication procedures that address when to communicate, what to communicate, with whom to communicate, and the means of communication.
 
 ## Why Crisis Communication Plans Fail
 
@@ -105,7 +105,7 @@ Define who escalates to whom, at what severity level, and within what timeframe.
 
 | Severity | Criteria | Communication Actions | Timeline | Approval |
 |---|---|---|---|---|
-| Level 1: Low | Localised issue, no customer/public impact, contained within one team | Internal notification only; department head informed; monitor for escalation | Within 1 hour | Dept. head |
+| Level 1: Low | Localized issue, no customer/public impact, contained within one team | Internal notification only; department head informed; monitor for escalation | Within 1 hour | Dept. head |
 | Level 2: Medium | Multiple teams affected, potential customer impact, media inquiry possible | Crisis comm team activated; holding statement prepared; customer FAQ drafted; media monitoring initiated | Within 2 hours | Comm Lead + Legal |
 | Level 3: High | Organisation-wide impact, confirmed customer/data impact, media attention, regulatory notification likely | Full crisis team activated; spokesperson designated; all stakeholder channels activated; legal reviews SEC/regulatory obligations | Within 30 minutes | CEO + Legal |
 | Level 4: Critical | Existential threat, major safety / financial / legal impact, national media, regulatory investigation | Board notified; external crisis PR firm engaged; legal counsel for SEC disclosure; all channels active; CEO as spokesperson | Immediate | Board + CEO |
@@ -126,7 +126,7 @@ Your crisis communication plan must work when your normal communication systems 
 
 A holding statement is your initial public communication, issued within 30 to 60 minutes of a crisis becoming known. It acknowledges the situation, demonstrates control, and buys time for a detailed response. Pre-draft holding statements for each crisis type so they can be deployed in minutes.
 
-Each statement below follows a four-part structure: acknowledge, empathise, act, and commit.
+Each statement below follows a four-part structure: acknowledge, empathize, act, and commit.
 
 #### Holding Statement 1: Cybersecurity Incident
 
@@ -146,13 +146,13 @@ Each statement below follows a four-part structure: acknowledge, empathise, act,
 
 #### Holding Statement 5: Data Breach / Privacy Incident
 
-> [Organisation Name] has become aware of an incident that may have involved unauthorised access to personal data. We take the privacy and security of personal information extremely seriously. We have engaged external forensic experts and notified relevant authorities. We will directly notify affected individuals as our investigation determines the scope of the incident and will provide complimentary [credit monitoring / identity protection] services. For questions, please contact [dedicated phone line / email].
+> [Organisation Name] has become aware of an incident that may have involved unauthorized access to personal data. We take the privacy and security of personal information extremely seriously. We have engaged external forensic experts and notified relevant authorities. We will directly notify affected individuals as our investigation determines the scope of the incident and will provide complimentary [credit monitoring / identity protection] services. For questions, please contact [dedicated phone line / email].
 
 #### Holding Statement 6: Financial / Regulatory Crisis
 
 > [Organisation Name] is aware of [the regulatory inquiry / the financial matter / the allegations] and is taking this matter seriously. We are cooperating fully with [regulatory body / authorities] and have engaged external advisors to conduct a thorough review. We are committed to maintaining the highest standards of [corporate governance / financial integrity / regulatory compliance] and will provide updates as appropriate. Our operations continue normally.
 
-**Usage note:** these are starting templates. Customise each to your organisation's voice, industry, and regulatory context. Legal must review all holding statements before they are finalised in your plan. During a crisis, the pre-approved template should be deployable with only factual details filled in (date, location, contact information), and should not require a full legal review from scratch.
+**Usage note:** these are starting templates. Customize each to your organization's voice, industry, and regulatory context. Legal must review all holding statements before they are finalized in your plan. During a crisis, the pre-approved template should be deployable with only factual details filled in (date, location, contact information), and should not require a full legal review from scratch.
 
 ## Phase 2: During the Disruption (Response)
 
@@ -164,7 +164,7 @@ When a crisis is confirmed, the plan shifts from preparation to execution. The f
 - **Minute 10 to 20. Assemble and brief.** Crisis communication team convenes (in person or via the pre-designated channel). Initial facts gathered. Severity confirmed or adjusted.
 - **Minute 20 to 30. Deploy holding statement.** Select the appropriate pre-drafted holding statement. Fill in factual details. Legal reviews for five minutes, not five hours. Deploy to employees first, then external stakeholders as severity dictates.
 - **Minute 30 to 45. Activate channels.** Internal: mass notification to all employees. External: website banner, social media acknowledgement, customer service talking points distributed. Spokesperson identified and media holding line activated.
-- **Minute 45 to 60. Regulatory checkpoint.** Legal confirms regulatory notification obligations (SEC 8-K timeline, state breach notification, sector-specific reporting). Begin materiality assessment for SEC-reporting companies. Document every communication decision for regulatory defence.
+- **Minute 45 to 60. Regulatory checkpoint.** Legal confirms regulatory notification obligations (SEC 8-K timeline, state breach notification, sector-specific reporting). Begin materiality assessment for SEC-reporting companies. Document every communication decision for regulatory defense.
 
 ### 2.2 Ongoing Communication Cadence
 
@@ -183,11 +183,11 @@ After the initial holding statement, establish a regular communication cadence.
 Every crisis communication should follow the **AECA structure**:
 
 - **Acknowledge.** State what happened in clear, factual language. Do not speculate or assign blame.
-- **Empathise.** Demonstrate genuine concern for those affected. Avoid corporate jargon.
+- **Empathize.** Demonstrate genuine concern for those affected. Avoid corporate jargon.
 - **Commit.** State what you are doing right now and what you will do next. Be specific about actions and timelines.
 - **Accountability.** Identify who is responsible for resolution and how you will keep stakeholders informed.
 
-**What not to say:** avoid 'no comment' (it implies guilt), premature blame attribution, guarantees you cannot keep ('this will never happen again'), or minimising language ('a minor incident') that may be contradicted by facts later.
+**What not to say:** avoid 'no comment' (it implies guilt), premature blame attribution, guarantees you cannot keep ('this will never happen again'), or minimizing language ('a minor incident') that may be contradicted by facts later.
 
 ### 2.4 Media Management Protocol
 
@@ -206,7 +206,7 @@ Employees are your first audience and your most important.
 - **Manager talking points.** Provide line managers with a bullet-point brief they can use in team conversations. Managers should not freelance messaging.
 - **Employee FAQ.** Draft and distribute an FAQ covering: what happened, are employees and data safe, what should employees do, what should employees say if asked by media, customers, or friends, and where to get updates.
 - **No-external-comment directive.** Remind employees that all external communication (including social posts about the incident) must go through the designated spokesperson. This is a standard media policy, not a gag order.
-- **Wellbeing support.** For crises involving safety, violence, or significant stress, activate Employee Assistance Programme resources and communicate their availability.
+- **Wellbeing support.** For crises involving safety, violence, or significant stress, activate Employee Assistance Program resources and communicate their availability.
 
 ## SEC Disclosure and Regulatory Notification Considerations
 
@@ -237,7 +237,7 @@ The materiality standard is whether there is a substantial likelihood that a rea
 | Contractual penalties and SLA credits | Competitive positioning and market perception |
 | Remediation and technology replacement costs | Management distraction and operational disruption |
 
-**Documentation:** document every step of the materiality assessment: who participated, what data was considered, what assumptions were made, and the rationale for the determination. This documentation is your regulatory defence if the SEC later questions the timing or adequacy of your disclosure.
+**Documentation:** document every step of the materiality assessment: who participated, what data was considered, what assumptions were made, and the rationale for the determination. This documentation is your regulatory defense if the SEC later questions the timing or adequacy of your disclosure.
 
 ### Annual Disclosure: Reg S-K Item 106
 
@@ -248,7 +248,7 @@ Beyond incident disclosure, the SEC's rules add Regulation S-K Item 106, requiri
 All 50 US states, the District of Columbia, and US territories have breach notification laws requiring notification to affected individuals when personal information is compromised.
 
 - **Notification timeline:** ranges from 30 days (for example Florida) to 90 days (for example Connecticut) to 'most expedient time possible' (many states). Some states (for example New York) also require notification to the state attorney general.
-- **Definition of personal information:** varies by state but typically includes Social Security numbers, financial account numbers, driver's licence numbers, and increasingly biometric and health information.
+- **Definition of personal information:** varies by state but typically includes Social Security numbers, financial account numbers, driver's license numbers, and increasingly biometric and health information.
 - **Notification content:** most states require the notification to describe the incident, the types of information compromised, steps the company is taking, and what affected individuals can do to protect themselves.
 
 ### Sector-Specific Regulatory Notifications
@@ -271,7 +271,7 @@ When the crisis is resolved, communicate the resolution to every stakeholder gro
 
 - **Confirmation of resolution.** A clear statement that the crisis is over and normal operations have resumed.
 - **Summary of what happened.** A factual, concise description of the event, its cause (if known), and its impact.
-- **Actions taken.** What the organisation did to resolve the crisis and mitigate harm.
+- **Actions taken.** What the organization did to resolve the crisis and mitigate harm.
 - **Preventive measures.** What structural changes, controls, or investments are being made to prevent recurrence. This is critical for rebuilding trust.
 - **Ongoing support.** Any continuing support for affected stakeholders (credit monitoring, product replacement, customer service priority).
 - **Gratitude.** Thank stakeholders for their patience, support, or cooperation during the crisis.
@@ -284,7 +284,7 @@ Within 10 business days of crisis resolution, conduct a dedicated communication 
 - **Message effectiveness.** Did stakeholders understand the messaging? Was misinformation corrected in time? Did any communication create confusion or new problems?
 - **Channel performance.** Which channels worked? Which failed? Did out-of-band channels activate successfully?
 - **Regulatory compliance.** Were all notification obligations met within required timelines? Is the documentation sufficient to demonstrate compliance?
-- **Media analysis.** How did media cover the crisis? Was coverage fair and accurate? Did the organisation's messaging shape the narrative?
+- **Media analysis.** How did media cover the crisis? Was coverage fair and accurate? Did the organization's messaging shape the narrative?
 - **Stakeholder feedback.** Survey key stakeholders (employees, customers, partners) on communication quality, timeliness, and trust impact.
 
 ### 3.3 Trust Rebuilding Strategy
@@ -316,9 +316,9 @@ Every crisis produces lessons that should feed directly back into your crisis co
 5. **Ignoring social media.** The narrative forms on social platforms in the first minutes. If you are not monitoring and responding there, you are ceding the narrative to speculation and misinformation.
 6. **No legal review of initial communications.** In the rush to communicate quickly, teams skip legal review. The first statement sets the legal and regulatory tone for everything that follows. Build a five-minute legal checkpoint into your Golden Hour protocol, not a five-hour review cycle.
 7. **Overpromising during the crisis.** Statements like 'this will never happen again' or 'no data was compromised' may be contradicted by later facts and create additional legal exposure.
-8. **No post-crisis communication.** Going silent after the crisis suggests the organisation has something to hide. Proactive post-crisis updates rebuild trust faster than silence.
+8. **No post-crisis communication.** Going silent after the crisis suggests the organization has something to hide. Proactive post-crisis updates rebuild trust faster than silence.
 9. **Treating all crises the same.** A cyber incident requires different messaging, channels, and regulatory considerations than a product recall or workplace safety event. Your plan should have scenario-specific playbooks.
-10. **Never testing the plan.** A crisis communication plan that has never been exercised will fail when it matters most. Include communication testing in your quarterly business continuity exercises.
+10. **Never testing the plan.** A crisis communication plan that has never been exercised will fail when it matters most. Include communication testing in your quarterly [business continuity exercises](https://riskpublishing.com/elements-of-a-business-continuity-plan-key/).
 
 ## Crisis Communication Plan Readiness Checklist
 
@@ -339,19 +339,19 @@ Every crisis produces lessons that should feed directly back into your crisis co
 - [ ] Communication approval workflow documented with maximum turnaround times at each step.
 - [ ] Post-crisis communication templates prepared (resolution message, transparency report, stakeholder follow-up).
 - [ ] After-action communication review process defined.
-- [ ] Crisis communication plan exercised (tabletop) within the past 12 months.
+- [ ] Crisis communication plan exercised (tabletop) within the past 12 months. See [elements of a business continuity plan](https://riskpublishing.com/elements-of-a-business-continuity-plan-key/) for the wider exercise program.
 - [ ] Plan reviewed and updated within the past 6 months or after any actual crisis event.
-- [ ] Board reporting on crisis communication readiness included in annual governance reporting.
+- [ ] Board reporting on crisis communication readiness included in annual governance reporting, alongside [risk register](https://riskpublishing.com/risk-register-template-and-guide-how-to-build/) and [KRI dashboard](https://riskpublishing.com/how-to-use-a-key-risk-indicators-dashboard/) outputs.
 
 ## Frequently Asked Questions
 
 ### What is a crisis communication plan?
 
-A crisis communication plan is a documented framework that defines how an organisation communicates with internal and external stakeholders before, during, and after a disruptive event. It includes pre-drafted messaging templates, stakeholder maps, escalation matrices, communication channels, approval workflows, and regulatory notification procedures. It sits within your broader business continuity management system and crisis management plan.
+A crisis communication plan is a documented framework that defines how an organization communicates with internal and external stakeholders before, during, and after a disruptive event. It includes pre-drafted messaging templates, stakeholder maps, escalation matrices, communication channels, approval workflows, and regulatory notification procedures. It sits within your broader business continuity management system and crisis management plan.
 
 ### How quickly should we issue an initial statement during a crisis?
 
-Best practice is to issue a holding statement within 30 to 60 minutes of a crisis becoming known. The holding statement does not need to contain all the facts. It acknowledges the situation, demonstrates that the organisation is taking action, and commits to providing updates. Delaying beyond 60 minutes creates an information vacuum that will be filled by speculation, social media, and media inquiries.
+Best practice is to issue a holding statement within 30 to 60 minutes of a crisis becoming known. The holding statement does not need to contain all the facts. It acknowledges the situation, demonstrates that the organization is taking action, and commits to providing updates. Delaying beyond 60 minutes creates an information vacuum that will be filled by speculation, social media, and media inquiries.
 
 ### What are the SEC disclosure requirements for cybersecurity incidents?
 
@@ -359,7 +359,7 @@ US public companies must file a Form 8-K under Item 1.05 within four business da
 
 ### Who should be the spokesperson during a crisis?
 
-For Level 3 and Level 4 crises (organisation-wide or existential impact), the CEO or a designated senior executive should serve as the primary spokesperson. For Level 2 crises, the communications lead or a relevant senior manager is appropriate. The spokesperson must be media-trained, able to stay on message under pressure, and authorised to speak on behalf of the organisation. Always have a designated backup in case the primary spokesperson is unavailable.
+For Level 3 and Level 4 crises (organization-wide or existential impact), the CEO or a designated senior executive should serve as the primary spokesperson. For Level 2 crises, the communications lead or a relevant senior manager is appropriate. The spokesperson must be media-trained, able to stay on message under pressure, and authorized to speak on behalf of the organization. Always have a designated backup in case the primary spokesperson is unavailable.
 
 ### How do we handle misinformation during a crisis?
 
@@ -367,11 +367,11 @@ Monitor social media, traditional media, and online forums in real time. When yo
 
 ### How often should we test our crisis communication plan?
 
-Test your crisis communication plan at least twice a year: once through a tabletop exercise focused specifically on communication (not just operational recovery), and once through a functional exercise that tests actual channel activation (mass notification deployment, spokesperson media simulation, social media response). Test out-of-band channels quarterly, and update the plan after every actual crisis event or significant organisational change.
+Test your crisis communication plan at least twice a year: once through a tabletop exercise focused specifically on communication (not just operational recovery), and once through a functional exercise that tests actual channel activation (mass notification deployment, spokesperson media simulation, social media response). Test out-of-band channels quarterly, and update the plan after every actual crisis event or significant organizational change.
 
 ### What is the difference between a crisis communication plan and a business continuity plan?
 
-A business continuity plan covers operational recovery (how you keep running), while a crisis communication plan covers messaging (how you talk about it). The two are complementary and should reference each other. ISO 22301:2019 Clause 8.4 explicitly requires communication procedures as part of a BCMS, but most organisations need a dedicated crisis communication plan with its own templates, channels, and approval workflows.
+A [business continuity plan](https://riskpublishing.com/a-guide-to-business-continuity-planning/) covers operational recovery (how you keep running), while a crisis communication plan covers messaging (how you talk about it). The two are complementary and should reference each other. ISO 22301:2019 Clause 8.4 explicitly requires communication procedures as part of a BCMS, but most organizations need a dedicated crisis communication plan with its own templates, channels, and approval workflows.
 
 ## Sources and Further Reading
 

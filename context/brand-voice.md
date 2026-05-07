@@ -10,7 +10,7 @@ The voice is modelled on Harvard Business Review Analytic Services and Gartner r
 - **What it means**: Every meaningful claim is grounded in data, a regulator, or a named expert. We do not editorialise without evidence.
 - **How it sounds**: Specific. Quantified. Sourced. We open with a statistic or a finding, not an opinion.
 - **Example**: "In a survey of 236 risk leaders conducted in March 2026, 56% reported at least one liquidity-stress event in the prior 12 months. Most never made it to the board pack."
-- **Avoid**: Vague claims ("studies show", "many organisations", "experts believe"), generic platitudes, marketing superlatives.
+- **Avoid**: Vague claims ("studies show", "many organizations", "experts believe"), generic platitudes, marketing superlatives.
 
 ### 2. Executive-grade
 - **What it means**: We write for the people who own outcomes. CROs, CFOs, Heads of BCM, internal auditors, board risk committee members, regulators. Their time is constrained and their decisions are consequential.
@@ -53,8 +53,8 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 - "The choice between concentrating with a strategic vendor and spreading risk across three is not a procurement question. It is a board-level resilience question."
 
 **Industry analysis / regulatory updates**: analytical, contextual, leading-indicator-aware.
-- "CBK's prudential guideline updates have telegraphed three priorities: liquidity buffer formality, third-party concentration, and digital-channel resilience. Boards should expect supervisory questions on all three by Q3."
 - "The SEC's first wave of cyber disclosure enforcement targeted disclosure controls, not the underlying incidents. The signal: how you talk about the breach matters as much as the breach itself."
+- "OCC and FRB priorities for the 2026 examination cycle telegraph three pressure points: liquidity buffer formality, third-party concentration, and operational resilience. Boards should expect supervisory questions on all three before mid-year."
 
 **Service / capability content (ekai's own offerings)**: outcome-focused, framework-anchored, not promotional.
 - "Our ERM diagnostic produces a risk register, a KRI specification, and a 90-day remediation roadmap aligned to ISO 31000:2018."
@@ -76,7 +76,7 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 - **Concept**: ISO 31000, COSO ERM, Basel III, and ISO 22301 are frameworks, not implementations. Translation is the work.
 - **Key points**:
   - A framework citation in a policy that no operator can act on is a finding waiting to happen.
-  - Local context (CBK, IRA, CMA in Kenya) sits on top of international standards, not below them.
+  - US supervisory expectations (SEC, OCC, FRB, FDIC, NCUA, FINRA, CFPB) sit on top of international standards, not below them.
   - Implementation is decided at the line item: who owns the control, what evidence proves it works, when does it get tested.
 - **Usage**: How-to and template content, especially when standards are being referenced.
 
@@ -105,7 +105,7 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 "ekai gives you risk numbers that survive an audit committee challenge, an analyst question, and a regulator's exit letter without three weeks of rebuilding."
 
 **For Internal Auditors and Audit Committees**:
-"ekai produces traceable, citation-grounded artefacts: every clause maps to a framework, every control maps to evidence, every KRI maps to a data source."
+"ekai produces traceable, citation-grounded artifacts: every clause maps to a framework, every control maps to evidence, every KRI maps to a data source."
 
 **For Business Continuity and Resilience Leads**:
 "ekai builds BCM plans that work when the systems you usually rely on are down: tested, channel-resilient, regulator-defensible."
@@ -129,7 +129,7 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 
 ### Word Choice
 - **Specific over general**: "47% of NBFIs surveyed" not "many institutions"; "below 105% LCR" not "low liquidity".
-- **Active verbs**: report, breach, escalate, calibrate, verify, govern, name. Not utilise, leverage, operationalise.
+- **Active verbs**: report, breach, escalate, calibrate, verify, govern, name. Not utilize, leverage, operationalize.
 - **Concrete consequences**: name the regulator, the line item, the loss event. Avoid "negative impact" when "regulatory fine", "customer churn", or "capital add-on" is what you mean.
 - **Avoid fluff**: cut "very", "really", "actually", "essentially", "literally". Most of them are tells.
 
@@ -141,7 +141,7 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 - key risk indicator (KRI) → risk metric (when threshold and cadence are defined)
 - residual risk → net risk
 - inherent risk → gross risk
-- three lines of defence → three lines model (acceptable; some clients prefer the older form)
+- three lines of defense → three lines model (acceptable; some clients prefer the older form)
 - risk owner (first-line, accountable executive) → risk department (the second-line oversight function)
 - enterprise risk management (ERM) → risk management (when scope is enterprise-wide)
 - business continuity management system (BCMS) → business continuity (when ISO 22301 conformance matters)
@@ -155,7 +155,7 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 - **Keep concise**: aim for under 60 characters for SEO; under 70 for headers on pillar pieces.
 
 ### Subheadings
-- **Question or concrete claim**: "What is a KRI?" or "Three lines of defence, in practice".
+- **Question or concrete claim**: "What is a KRI?" or "Three lines of defense, in practice".
 - **One section, one idea**: AI parsers and skim readers both reward this.
 - **Keyword in 2 to 3 H2s** of any SEO piece, integrated naturally.
 
@@ -166,7 +166,7 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 - **Bullets must do work**: do not bullet for visual decoration. If three bullets all say the same thing in slightly different words, write a sentence.
 
 ### Calls-to-Action
-- **Name the next artefact**: "Run /risk-register liquidity risk", not "explore our services".
+- **Name the next artifact**: "Run /risk-register liquidity risk", not "explore our services".
 - **Specify the time cost**: "a 30-minute diagnostic call", not "let's chat".
 - **Anchor in framework**: "ISO 31000-aligned register review", not "best-practice review".
 
@@ -189,9 +189,9 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 
 ### Not ekai voice ❌
 
-> In today's complex regulatory environment, organisations must leverage best-in-class risk management practices to ensure compliance and drive value. Our holistic approach helps stakeholders navigate uncertainty by aligning frameworks with strategic objectives, ultimately empowering data-driven decision-making across the enterprise.
+> In today's complex regulatory environment, organizations must leverage best-in-class risk management practices to ensure compliance and drive value. Our holistic approach helps stakeholders navigate uncertainty by aligning frameworks with strategic objectives, ultimately empowering data-driven decision-making across the enterprise.
 >
-> By partnering with seasoned advisors, leaders can unlock unprecedented visibility into their risk landscape and transform compliance from a cost centre into a strategic differentiator.
+> By partnering with seasoned advisors, leaders can unlock unprecedented visibility into their risk landscape and transform compliance from a cost center into a strategic differentiator.
 
 **Why this fails**:
 - Zero specifics: no number, no regulator, no framework cited.
@@ -204,11 +204,11 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 
 ### Who We Write For
 
-**Primary audience**: Senior risk, finance, audit, and resilience leaders at regulated financial institutions, large corporates, and parastatals in Kenya and the East African Community.
+**Primary audience**: Senior risk, finance, audit, and resilience leaders at US-regulated financial institutions and large corporations.
 - Chief Risk Officers, Heads of Risk, Heads of BCM, Heads of Internal Audit.
-- CFOs and Treasurers at banks, NBFIs, insurers, SACCOs, and Tier-1 corporates.
-- Board members and audit committee members.
-- Operating under CBK Prudential Guidelines, IRA, CMA, ISO 31000, ISO 22301, Basel III where relevant.
+- CFOs and Treasurers at US banks, BHCs, insurers, broker-dealers, credit unions, and Fortune 1000 corporates.
+- Board members and audit committee members of public and large private companies.
+- Operating under SEC, OCC, FRB, FDIC, NCUA, FINRA, CFPB supervision and ISO 31000, ISO 22301, COSO ERM, NIST CSF, Basel III where relevant.
 
 **Secondary audiences**:
 - **Operational risk and compliance officers**: practitioners building registers, KRIs, and policies.
@@ -219,14 +219,14 @@ Imagine an experienced risk consultant briefing a board: precise, evidence-led, 
 ### What They Care About
 
 **Top priorities**:
-1. Defensible risk artefacts that survive board, regulator, and external-audit scrutiny.
+1. Defensible risk artifacts that survive board, regulator, and external-audit scrutiny.
 2. Frameworks (ISO 31000, COSO ERM, Basel III, ISO 22301) translated into practical, line-item actions.
 3. KRIs that move before the loss event, not after.
 4. Reporting that gives the board control, not just visibility.
 5. Sound third-party and outsourcing governance.
 
 **Pain points**:
-1. Risk registers full of categories disguised as risks; ratings clustered in the centre of the heatmap.
+1. Risk registers full of categories disguised as risks; ratings clustered in the center of the heatmap.
 2. KRIs that tell them what already happened.
 3. Policies that read well but no one can operate.
 4. Regulators asking for evidence the firm cannot produce on demand.
@@ -248,7 +248,7 @@ Before publishing any content, verify:
 - [ ] **Tone**: matches the content type and the seniority of the audience.
 - [ ] **Evidence**: every meaningful claim is grounded in a number, named source, framework clause, or regulator citation.
 - [ ] **Clarity**: a senior risk leader can read it once and act on it.
-- [ ] **Accuracy**: framework references correct (ISO 31000:2018, COSO ERM 2017, BCBS 144 / 238, ISO 22301:2019). Regulator citations correct (CBK, IRA, CMA, OCC, FRB, FDIC, EBA where applicable).
+- [ ] **Accuracy**: framework references correct (ISO 31000:2018, COSO ERM 2017, BCBS 144 / 238, ISO 22301:2019, NIST CSF 2.0). Regulator citations correct (SEC, OCC, FRB, FDIC, NCUA, FINRA, CFPB).
 - [ ] **Examples**: at least one named real-world case (SVB 2023, Maersk 2017 NotPetya, R.R. Donnelley SEC settlement, etc.) or one fully-worked numerical example.
 - [ ] **Action**: the reader knows what to do next, with whom, by when.
 - [ ] **Messaging**: aligns with one or more of the four core brand messages.
