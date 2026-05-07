@@ -12,7 +12,7 @@ secondary_keywords:
   - holding statements
   - business continuity communication
 meta_title: "Crisis Communication Plan Template 2026: 3-Phase Guide"
-meta_description: "Crisis communication plan template with pre-drafted holding statements, SEC 8-K Item 1.05 guidance, and a readiness checklist for the three phases of a disruption."
+meta_description: "What goes in a crisis communication plan template? Six pre-drafted holding statements, an escalation matrix, SEC 8-K Item 1.05 guidance, and a readiness checklist."
 ---
 
 # Crisis Communication Plan Template (2026): Before, During, and After a Disruption
